@@ -25,7 +25,7 @@ topics:
 | 識別的（discriminative） | 視床VPL/VPM | 一次体性感覚野(S1)、中心後回の体部位対応(homunculus) | どこが・どれくらいの温度か |
 | 情動的・内受容的（interoceptive/affective） | 視床VMpo（後内側腹側核） | 背側後部島皮質（dorsal posterior insula） | それがどう「感じられるか」 |
 
-VMpoが背側後部島皮質への主要な投射先であることは組織学的に同定されている（Blomqvist A, Zhang ET, Craig AD. "Cytoarchitectonic and immunohistochemical characterization of a specific pain and temperature relay, the posterior portion of the ventral medial nucleus, in the human thalamus." Brain. 2000;123(3):601-619）。ただしVMpoがヒトで独立した核として実在するか自体に批判的レビューが存在するとみられ（タイトルのみ確認、著者・出典未特定）、経路の解剖学的実体には論争が残る。
+VMpoが背側後部島皮質への主要な投射先であることは組織学的に同定されている（Blomqvist A, Zhang ET, Craig AD. "Cytoarchitectonic and immunohistochemical characterization of a specific pain and temperature relay, the posterior portion of the ventral medial nucleus, in the human thalamus." Brain. 2000;123(3):601-619）。ただしVMpoがヒトで独立した核として実在するか自体に批判的レビューが存在し、経路の解剖学的実体には論争が残る（Willis WD Jr, Zhang X, Honda CN, Giesler GJ Jr. "A critical review of the role of the proposed VMpo nucleus in pain." J Pain. 2002;3(2):79-94. PMID: 14622792）。
 
 ### 島皮質への直接電気刺激で温感が誘発される（一次資料で確認済み）
 Duong et al. (Brain Stimulation, 2023, DOI: 10.1016/j.brs.2023.11.001, PMID: 37949296) はSEEG電極ペア57組への刺激（双極、1〜3秒、50Hz、2〜10mA、after-discharge閾値未満）を報告した。
@@ -57,7 +57,7 @@ Mazzola L, Mauguière F, Isnard J. "Electrical Stimulations of the Human Insula:
 - Duong A, Quabs J, Kucyi A, Lusk Z, Buch V, Caspers S, Parvizi J. "Subjective states induced by intracranial electrical stimulation matches the cytoarchitectonic organization of the human insula." Brain Stimulation. 2023. DOI: 10.1016/j.brs.2023.11.001, PMID: 37949296
 - Mazzola L, Mauguière F, Isnard J. "Electrical Stimulations of the Human Insula: Their Contribution to the Ictal Semiology of Insular Seizures." J Clin Neurophysiol. 2017;34:307-314. PMID: 28644200
 - Blomqvist A, Zhang ET, Craig AD. "Cytoarchitectonic and immunohistochemical characterization of a specific pain and temperature relay, the posterior portion of the ventral medial nucleus, in the human thalamus." Brain. 2000;123(3):601-619
-- VMpo核の実在に対する批判的レビューが存在するとみられるが、著者・書誌情報は本セッションで未特定（要追加検証）
+- Willis WD Jr, Zhang X, Honda CN, Giesler GJ Jr. "A critical review of the role of the proposed VMpo nucleus in pain." J Pain. 2002;3(2):79-94. PMID: 14622792
 
 ---
 
