@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786007057462-ciwun483g",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786007057480-bgvnbp3",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786007057460-5uddcs8",
+      "timestamp": 1786007057460,
+      "rawDisplayText": "このプロジェクトの熱感知はどのようにやっていますか？",
+      "canonicalText": "このプロジェクトの熱感知はどのようにやっていますか？",
+      "context": {
+        "currentNote": {
+          "path": "research/BCI熱感知書き込みの脳内経路.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "f14d0430b7ea2930d889029b15018e18adb66aad8120e40d1427d8b35a65b30e",
+      "providerUserMessageId": "2512c4cb-7950-419f-9dd8-f3b2204a88bb",
+      "providerAssistantMessageId": "0fe5f5e1-d62e-4966-893c-7a931dc3ffed"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786007198395-jvwwtfi",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786007198391-shaa0y9",
+      "timestamp": 1786007198391,
+      "rawDisplayText": "BCIのおける熱感知です。センサの情報がどうなっていてどう加工してどうやって電脳に送るのか考えたいです。",
+      "canonicalText": "BCIのおける熱感知です。センサの情報がどうなっていてどう加工してどうやって電脳に送るのか考えたいです。",
+      "images": [],
+      "contentDigest": "3818be4cf2af21c9c9b858f0d2fba4ed0332a970d2c193385c4c0c1de7d57c3f",
+      "providerUserMessageId": "1ffba740-1260-4f38-8f27-20e355fc2f59",
+      "providerAssistantMessageId": "7b87840f-9fca-43bc-9d8f-ae8e61ce6c54"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786007333676-bl44myq",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786007333673-ggcwfmb",
+      "timestamp": 1786007333673,
+      "rawDisplayText": "熱センサの情報の形式を詰めたいです。",
+      "canonicalText": "熱センサの情報の形式を詰めたいです。",
+      "images": [],
+      "contentDigest": "2508bd8da689799f35f1e7f274589a77bf482e2aa1b469b4fc3731fd960bb45f",
+      "providerUserMessageId": "124b5ac3-fb81-428d-9bdf-40f7117ef617",
+      "providerAssistantMessageId": "39961e68-d9b8-41fa-896e-8a21d0bffeba"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786009448070-4slngql",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1786009448064-6d0dasr",
+      "timestamp": 1786009448064,
+      "rawDisplayText": "熱感知センサをアルミ板につけるとして、別で用意するとしたら、どのような情報形式がありますか",
+      "canonicalText": "熱感知センサをアルミ板につけるとして、別で用意するとしたら、どのような情報形式がありますか",
+      "images": [],
+      "contentDigest": "936c15233c1b7038fe6066f2547c3fff4b0d27b14c04f0ab5bab84f6705eb507",
+      "providerUserMessageId": "8449b594-3b6b-4dcf-ac66-9ed9725f97ac",
+      "providerAssistantMessageId": "d7da40fa-64f0-466a-a42d-82fb6b16f460"
+    }
+  ]
+}
