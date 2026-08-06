@@ -15,6 +15,34 @@
       "contentDigest": "fefbdc04ab2639f91fbcfe3322188e9f1acb8dd78bb3f0e449f61307308acdcc",
       "providerUserMessageId": "187ec089-d1f3-46ba-a3c1-0258adda6977",
       "providerAssistantMessageId": "1563bac4-7826-48e2-a586-36c8d3925fe8"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786003430962-9tao9z6",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786003430958-avesnt9",
+      "timestamp": 1786003430958,
+      "rawDisplayText": "シンクさせて欲しい\nhttps://github.com/ben1san/ona_nl_dev",
+      "canonicalText": "シンクさせて欲しい\nhttps://github.com/ben1san/ona_nl_dev",
+      "images": [],
+      "contentDigest": "ea85b6fe49df1cac1adeea1b035c582ea4e7c2ef00a1c196774d87f5271de5d2",
+      "providerUserMessageId": "60bbcd4c-9669-4b47-8414-49ff518119d7",
+      "providerAssistantMessageId": "c4f663b2-5769-4c0c-9176-53ffe9c08cb5"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786006059727-0fjryxr",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786006059710-te5qk6w",
+      "timestamp": 1786006059710,
+      "rawDisplayText": "mainに直接pushできないようにしてください。\nマージしたいときはプルリクを作成して代表者が、それをみてマージするようにしたいです。\nCLAUDE.mdに書いて",
+      "canonicalText": "mainに直接pushできないようにしてください。\nマージしたいときはプルリクを作成して代表者が、それをみてマージするようにしたいです。\nCLAUDE.mdに書いて",
+      "images": [],
+      "contentDigest": "ceafd9458f65635ec02373c88a5dee1a07a879d86d413d275c6707f1f7988ecf",
+      "providerUserMessageId": "dcb76d9f-4355-477d-a42f-0a72ba34ddde",
+      "providerAssistantMessageId": "71aab2ab-593a-4e51-8641-daba3489c581"
     }
   ]
 }

@@ -4,19 +4,19 @@
   "title": "Commit project changes",
   "titleGenerationStatus": "success",
   "createdAt": 1786003328154,
-  "lastActivityAt": 1786003357094,
+  "lastActivityAt": 1786006350992,
   "sessionId": "9ae922a8-cfcc-4381-85a3-7ec2843e5ba4",
-  "selectedModel": "haiku",
+  "selectedModel": "sonnet",
   "providerState": {
     "providerSessionId": "9ae922a8-cfcc-4381-85a3-7ec2843e5ba4"
   },
   "usage": {
-    "model": "haiku",
-    "inputTokens": 8,
-    "cacheCreationInputTokens": 3285,
-    "cacheReadInputTokens": 20523,
-    "contextWindow": 200000,
-    "contextTokens": 23816,
-    "percentage": 12
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 1029,
+    "cacheReadInputTokens": 39206,
+    "contextWindow": 1000000,
+    "contextTokens": 40237,
+    "percentage": 4
   }
 }
