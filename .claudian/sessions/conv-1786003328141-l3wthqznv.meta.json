@@ -1,0 +1,22 @@
+{
+  "id": "conv-1786003328141-l3wthqznv",
+  "providerId": "claude",
+  "title": "Commit project changes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786003328154,
+  "lastActivityAt": 1786003357094,
+  "sessionId": "9ae922a8-cfcc-4381-85a3-7ec2843e5ba4",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "9ae922a8-cfcc-4381-85a3-7ec2843e5ba4"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 3285,
+    "cacheReadInputTokens": 20523,
+    "contextWindow": 200000,
+    "contextTokens": 23816,
+    "percentage": 12
+  }
+}

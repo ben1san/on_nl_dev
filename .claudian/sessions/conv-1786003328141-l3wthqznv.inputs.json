@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786003328141-l3wthqznv",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786003328224-pckhycu",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786003328133-0pq9ysb",
+      "timestamp": 1786003328133,
+      "rawDisplayText": "コミットしてください。",
+      "canonicalText": "コミットしてください。",
+      "images": [],
+      "contentDigest": "fefbdc04ab2639f91fbcfe3322188e9f1acb8dd78bb3f0e449f61307308acdcc",
+      "providerUserMessageId": "187ec089-d1f3-46ba-a3c1-0258adda6977",
+      "providerAssistantMessageId": "1563bac4-7826-48e2-a586-36c8d3925fe8"
+    }
+  ]
+}
