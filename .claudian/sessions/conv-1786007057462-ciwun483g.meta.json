@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786007057462-ciwun483g",
+  "providerId": "claude",
+  "title": "Explain project heat sensing approach",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786007057465,
+  "lastActivityAt": 1786009497055,
+  "sessionId": "a7c85953-df99-4f52-b692-2d92c0ef896f",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "a7c85953-df99-4f52-b692-2d92c0ef896f"
+  },
+  "currentNote": "research/BCI熱感知書き込みの脳内経路.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 2886,
+    "cacheReadInputTokens": 63509,
+    "contextWindow": 200000,
+    "contextTokens": 66405,
+    "percentage": 33
+  }
+}

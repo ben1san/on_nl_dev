@@ -73,12 +73,20 @@ topics: []
 
 ## research
 
-- [[references]] -- 技術的出典と東洋哲学/神道の入門記事をトピック別に集約した参考文献集
-- [[主流BCI方式と企業比較]] -- Neuralink・Synchron・Precision Neuroscience・Merge Labsを侵襲度別に比較
-- [[導電性ポリマー電極材料]] -- 金属電極の限界に対するAxoft・INBRAINの材料アプローチと刺激特性
+- [[references]] -- FR裏付け出典（ANU QRNG・NIST SP800-22）と未収集の出典領域を残した参考文献の残余整理
+- [[主流BCI方式と企業比較]] -- Neuralink・Synchron・Precision Neuroscience・Merge Labsを侵襲度別に比較する合成ノート。企業別詳細は個社ノートを参照
+- [[Neuralinkの侵襲型皮質貫通電極アレイ]] -- N1の臨床進捗と電極スレッド後退・グリオーシスによる長期安定性の課題
+- [[Synchronの血管内留置型BCI]] -- StentrodeのCOMMAND試験進捗と血管壁越し記録による安定性と情報密度のトレードオフ
+- [[Precision Neuroscienceの脳表面設置型BCI]] -- Layer 7によるFDA 510(k)承認取得済みの微小侵襲BCIの現状
+- [[Merge Labsの非侵襲超音波方式]] -- サム・アルトマン共同設立の超音波+遺伝子治療BCIの設立初期段階の状況
+- [[導電性ポリマー電極材料]] -- PEDOT:PSS系材料の電荷注入容量・インピーダンス等の刺激特性と未解決課題。企業別詳細は個社ノートを参照
+- [[Axoft Fleuronの導電性ハイドロゲル電極]] -- ポリイミド電極比で最大1万倍柔らかいFleuronの商用化状況
+- [[INBRAIN Neuroelectronicsのグラフェン電極]] -- グラフェンベースBCI-TxでFDA Breakthrough Device Designationを取得した商用化状況
 - [[電気刺激によるBCI書き込みと文字表示]] -- 動的走査刺激によるphosphene文字表示と読字速度の理論的下限
 - [[BCI熱感知書き込みの脳内経路]] -- 温度感覚の識別的経路(S1)と情動的経路(島皮質)への分岐と義体化書き込み先候補
-- [[脳オルガノイド計算基盤]] -- BCIとは別パラダイムの生体計算基盤（Cortical Labs・FinalSpark）
+- [[脳オルガノイド計算基盤]] -- BCIとは別パラダイムの生体計算基盤の位置づけと忘却炉プロジェクトとの接続。企業別詳細は個社ノートを参照
+- [[Cortical LabsのCL1商用生体コンピュータ]] -- DishBrainを起点に2025年商用化したCL1の消費電力・価格
+- [[FinalSparkのNeuroplatform]] -- 脳オルガノイドへのリモートアクセスをクラウド提供するNeuroplatformの現状
 - [[仏教的概念と量子自然の対応関係]] -- 堀田昌寛を起点に、空・縁起・テトラレンマと量子測定の対応、量子神秘主義への批判的視座
 - [[null²における仏教哲学の参照と空間化]] -- 落合陽一のnull²が仏教哲学を鏡膜/デジタルツインに空間化した経緯の整理
 - [[色即是空・空即是色と量子自然の相互創発]] -- 計算を空、出力を色と見る自説を学術的対応論で補強

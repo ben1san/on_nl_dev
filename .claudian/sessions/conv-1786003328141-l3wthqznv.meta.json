@@ -4,7 +4,7 @@
   "title": "Commit project changes",
   "titleGenerationStatus": "success",
   "createdAt": 1786003328154,
-  "lastActivityAt": 1786006350992,
+  "lastActivityAt": 1786006988325,
   "sessionId": "9ae922a8-cfcc-4381-85a3-7ec2843e5ba4",
   "selectedModel": "sonnet",
   "providerState": {
@@ -13,10 +13,10 @@
   "usage": {
     "model": "sonnet",
     "inputTokens": 2,
-    "cacheCreationInputTokens": 1029,
-    "cacheReadInputTokens": 39206,
+    "cacheCreationInputTokens": 141,
+    "cacheReadInputTokens": 40841,
     "contextWindow": 1000000,
-    "contextTokens": 40237,
+    "contextTokens": 40984,
     "percentage": 4
   }
 }

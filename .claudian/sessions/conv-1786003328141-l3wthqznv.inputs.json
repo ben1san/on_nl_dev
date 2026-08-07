@@ -43,6 +43,20 @@
       "contentDigest": "ceafd9458f65635ec02373c88a5dee1a07a879d86d413d275c6707f1f7988ecf",
       "providerUserMessageId": "dcb76d9f-4355-477d-a42f-0a72ba34ddde",
       "providerAssistantMessageId": "71aab2ab-593a-4e51-8641-daba3489c581"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786006977802-1442eip",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1786006977797-l10s9w1",
+      "timestamp": 1786006977797,
+      "rawDisplayText": "beniとしてブランチを切って",
+      "canonicalText": "beniとしてブランチを切って",
+      "images": [],
+      "contentDigest": "4e06910f3e758342a14ded257688341b1b2fabb50fc462439ff46e5680e56af8",
+      "providerUserMessageId": "d7d8e690-29a3-4d57-9ddf-0e4c29f41bbe",
+      "providerAssistantMessageId": "ff862595-79c2-452a-aa06-2dee853d5d34"
     }
   ]
 }
