@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786441460787-d6csmznur",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786441460799-tagbck6",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786441460785-wfx0mv5",
+      "timestamp": 1786441460785,
+      "rawDisplayText": "BCIの応用や調査について新しくチームで共有したいと思います。gitからの差分をとって簡単に要約してください。",
+      "canonicalText": "BCIの応用や調査について新しくチームで共有したいと思います。gitからの差分をとって簡単に要約してください。",
+      "images": [],
+      "contentDigest": "49394cce1ff09bb990b14f6338bbd48199247236a0fe7fe1a240120822043cdc",
+      "providerUserMessageId": "4c709eb4-2fdb-4fd8-bf90-32fadf09911a",
+      "providerAssistantMessageId": "037c99b9-20b4-4a90-93a7-f84e48267ddc"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786441787569-2bx7t8v",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786441787563-sz42ku9",
+      "timestamp": 1786441787563,
+      "rawDisplayText": "一度コミットしてシンクさせて、ついでにプルリクを記述して",
+      "canonicalText": "一度コミットしてシンクさせて、ついでにプルリクを記述して",
+      "images": [],
+      "contentDigest": "306da0b5d6cc4f01661ef5a1894aa81a270537de64bf7253ac636abb38032397",
+      "providerUserMessageId": "eb543682-95f6-4516-9398-d75a55f7ae63"
+    }
+  ]
+}

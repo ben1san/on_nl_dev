@@ -4,7 +4,7 @@
   "title": "Structure research directory",
   "titleGenerationStatus": "success",
   "createdAt": 1786016710467,
-  "lastActivityAt": 1786024240227,
+  "lastActivityAt": 1786062734626,
   "sessionId": "6b2f529e-8532-46a5-b4df-8518a5c9bbb0",
   "selectedModel": "sonnet",
   "providerState": {
@@ -13,10 +13,10 @@
   "usage": {
     "model": "sonnet",
     "inputTokens": 2,
-    "cacheCreationInputTokens": 3823,
-    "cacheReadInputTokens": 265213,
+    "cacheCreationInputTokens": 5867,
+    "cacheReadInputTokens": 392061,
     "contextWindow": 1000000,
-    "contextTokens": 269038,
-    "percentage": 27
+    "contextTokens": 397930,
+    "percentage": 40
   }
 }

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786196954956-za26wrkzp",
+  "providerId": "claude",
+  "title": "焼却回路・量子乱数・シュレディング仕様を確認",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786196954964,
+  "lastActivityAt": 1786197123657,
+  "sessionId": "b67e2715-823d-42a4-beab-d7de80c68b27",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "b67e2715-823d-42a4-beab-d7de80c68b27"
+  },
+  "currentNote": "concept/technical_req.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 792,
+    "cacheReadInputTokens": 33394,
+    "contextWindow": 200000,
+    "contextTokens": 34194,
+    "percentage": 17
+  }
+}

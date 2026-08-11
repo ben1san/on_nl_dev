@@ -13,13 +13,13 @@ topics:
 # 情報層の構成部品解説（初学者向け補足）
 
 **作成日**: 2026年7月28日　**改訂日**: 2026年7月29日（駆動段を74HCT595からTC4427に変更。経緯は[[cell_driver_choice]]）
-**関連文書**: [[architecture]]（3.1節・3.2節・5節）、`components.md`（2節）、[[回路解説_初学者向け]]（GPIO＝スイッチの節）、[[pi_pico_role_separation]]、[[cell_driver_choice]]（駆動段選定の経緯・導出）
+**関連文書**: [[architecture]]（3.1節・3.2節・5節）、`components.md`（1節）、[[回路解説_初学者向け]]（GPIO＝スイッチの節）、[[pi_pico_role_separation]]、[[cell_driver_choice]]（駆動段選定の経緯・導出）
 
 ---
 
 ## 1. マイコン以外の部品の役割
 
-情報層（`components.md`2節、[[architecture]] 3.1節）に出てくる部品のうち、マイコン（Raspberry Pi Pico）以外の役割を整理する。
+情報層（`components.md`1節、[[architecture]] 3.1節）に出てくる部品のうち、マイコン（Raspberry Pi Pico）以外の役割を整理する。
 
 | 部品 | 役割 |
 |---|---|

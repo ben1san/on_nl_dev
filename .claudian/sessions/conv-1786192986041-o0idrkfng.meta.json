@@ -1,0 +1,22 @@
+{
+  "id": "conv-1786192986041-o0idrkfng",
+  "providerId": "claude",
+  "title": "Assess thermal BCI implementation feasibility",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786192986047,
+  "lastActivityAt": 1786196686571,
+  "sessionId": "7a35d962-45b6-415c-875e-d095e2e5ecd3",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "7a35d962-45b6-415c-875e-d095e2e5ecd3"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 2033,
+    "cacheReadInputTokens": 149474,
+    "contextWindow": 1000000,
+    "contextTokens": 151509,
+    "percentage": 15
+  }
+}

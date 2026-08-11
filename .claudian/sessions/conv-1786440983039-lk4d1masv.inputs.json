@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786440983039-lk4d1masv",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786440983065-yh8xzts",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786440983035-x1t7h84",
+      "timestamp": 1786440983035,
+      "rawDisplayText": "現状較正データはOSが蓄えて、OSが管理するものという見方ですが、アプリケーションごとにアプリケーション特有の較正データを作成することは将来あると思いますか？",
+      "canonicalText": "現状較正データはOSが蓄えて、OSが管理するものという見方ですが、アプリケーションごとにアプリケーション特有の較正データを作成することは将来あると思いますか？",
+      "images": [],
+      "contentDigest": "d196715a08bc6b29c0232ed646e2e03c126d848f2a076e2cac4ded73426a644b",
+      "providerUserMessageId": "dd34b8c0-8d8b-413b-b921-d6da0fa254d2",
+      "providerAssistantMessageId": "428d731e-5cd0-44a2-b066-8f5cd432f05c"
+    }
+  ]
+}

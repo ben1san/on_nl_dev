@@ -12,7 +12,7 @@ topics:
 
 # Raspberry Pi / Pico 役割分離の設計根拠
 
-**作成日**: 2026年7月28日　**関連文書**: [[architecture]]（3.1節・4.4節・9節）、`components.md`（2節）、`functional_req.md`（FR-03）
+**作成日**: 2026年7月28日　**関連文書**: [[architecture]]（3.1節・4.4節・9節）、`components.md`（1節）、`functional_req.md`（FR-03）
 
 ---
 
@@ -68,7 +68,7 @@ Pico W / Pico 2 WはWiFi（CYW43439）を搭載しており、フルOS機を排�
 
 - **HTTPS/TLS**：外部APIアクセスにはTLS証明書検証が必要。ベアメタル側でmbedTLSを使うこと自体は可能だが、ルート証明書の管理・更新、証明書検証に必要な時刻同期（PicoにはRTCがなく、SNTPクライアントを別途実装する必要がある）を全て自前で組む必要がある。Linux＋Pythonなら`requests`＋`certifi`＋システム時計で解決済みの問題を、embedded Cで再実装することになる。
 - **IBM Quantum実機アクセス**：通常Qiskit（Python SDK）経由でのジョブ投入・キューイング・ポーリングを想定しており、生のHTTPS+JSONで代替するのはかなりの実装コスト。119行目の「キューイング遅延・フォールバック構成」も、Pico側では一から状態機械を書くことになる。
-- **開発期間の制約**：components.md「9. 発注順序」節のスケジュール（数週間単位）を踏まえると、TLS/証明書/NTP/JSON parsingをベアメタルで手堅く実装する工数は、Pythonライブラリを使う場合と比べてリスクが明確に高い。
+- **開発期間の制約**：components.md「8. 発注順序」節のスケジュール（数週間単位）を踏まえると、TLS/証明書/NTP/JSON parsingをベアメタルで手堅く実装する工数は、Pythonライブラリを使う場合と比べてリスクが明確に高い。
 - **RAM容量**：Pico 2（RP2350、520KB SRAM）ならWiFi+lwIP+TLS+MQTTを同時に載せる余地は現実的にあるが、余裕は大きくない。
 
 ### まとめ

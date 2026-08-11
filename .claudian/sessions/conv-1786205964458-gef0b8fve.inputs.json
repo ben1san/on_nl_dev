@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786205964458-gef0b8fve",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786205964484-46rvlmb",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786205964453-8iik0bp",
+      "timestamp": 1786205964453,
+      "rawDisplayText": "CorTecについて簡単にリサーチしてください。",
+      "canonicalText": "CorTecについて簡単にリサーチしてください。",
+      "context": {
+        "currentNote": {
+          "path": "research/BCI/BCI用ソフトウェア基盤の実装状況.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "b3a02749fcf472089f1f3d2aa4522bc9a6b57d6444a6f153847ea4824489447d",
+      "providerUserMessageId": "82f05d3b-46f0-4c54-b0bc-3ea072569452",
+      "providerAssistantMessageId": "59381ba0-18ec-4000-90af-c6068b32e2ec"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786206367662-xkiu2ve",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786206367654-vgbx6du",
+      "timestamp": 1786206367654,
+      "rawDisplayText": "閉ループシステム\nコンプライアンス電圧\nこれを説明して",
+      "canonicalText": "閉ループシステム\nコンプライアンス電圧\nこれを説明して",
+      "images": [],
+      "contentDigest": "33ed3eb0211cd6da21604075ea7c41f0fe85ffa022a4a0c30c0683ed3768e12d",
+      "providerUserMessageId": "3ce9d56e-cbd7-4ca4-a763-cb69f440fef4",
+      "providerAssistantMessageId": "751afd48-9867-4adb-bef7-fea030ec0ada"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786206555189-7sve7v4",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786206555187-7hxuukc",
+      "timestamp": 1786206555187,
+      "rawDisplayText": "CorTecについてはファイル化してください。",
+      "canonicalText": "CorTecについてはファイル化してください。",
+      "images": [],
+      "contentDigest": "07ae9a5c49b43cbf94d0cc6fae1e9e4b55fe4f430fcc19b5eaf06112cb35dbea",
+      "providerUserMessageId": "5129264b-1e4d-45a1-b69a-c2f3b1d8259c",
+      "providerAssistantMessageId": "ab600b3b-8104-4f99-adc0-73a78f864e14"
+    }
+  ]
+}

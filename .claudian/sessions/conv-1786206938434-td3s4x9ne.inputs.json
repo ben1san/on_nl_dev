@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786206938434-td3s4x9ne",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786206938459-5uzxdpv",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786206938429-vgj6qn5",
+      "timestamp": 1786206938429,
+      "rawDisplayText": "ここで定義している較正データって調べがついているんですか？",
+      "canonicalText": "ここで定義している較正データって調べがついているんですか？",
+      "context": {
+        "currentNote": {
+          "path": "accessibility/較正データへのアプリアクセスの段階設計.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "bf39b4516c2163f838cd0bc6e8fdf25e653fde12488ee330091b1e47b82cd2f1",
+      "providerUserMessageId": "37aa295d-62f4-40d7-aa90-97ed3c7a2222",
+      "providerAssistantMessageId": "dda9ee91-c0cc-41f6-aa4c-e8701f1dd34c"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786263753116-6gmnzdm",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786263753111-n77na0i",
+      "timestamp": 1786263753111,
+      "rawDisplayText": "この較正データをつかって具体的にどんなエンジニアリングができると思いますか？",
+      "canonicalText": "この較正データをつかって具体的にどんなエンジニアリングができると思いますか？",
+      "images": [],
+      "contentDigest": "a12e6994b10d1e4c7b29dac613ae58cd269efeb6bbf453505dd722f0fd8e3b0b",
+      "providerUserMessageId": "8bc198de-2163-47ba-a990-ff76d4cadcb7",
+      "providerAssistantMessageId": "e81952f9-7990-47da-aff1-bcff12303d32"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786264880186-eukl2hq",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786264880180-hrnb3k3",
+      "timestamp": 1786264880180,
+      "rawDisplayText": "忘却炉側のアプリ処理として詰める価値のあるものをノート化してください。",
+      "canonicalText": "忘却炉側のアプリ処理として詰める価値のあるものをノート化してください。",
+      "images": [],
+      "contentDigest": "16b971a66ef34005e4e3b881563447807af7431238402136090be8c033bc5ecc",
+      "providerUserMessageId": "9c56a350-c154-40b9-afe3-e167d37c5273",
+      "providerAssistantMessageId": "c1575368-1422-4bb6-aba3-a719d9beb9f9"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786265346573-8xircvm",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1786265346571-li795g3",
+      "timestamp": 1786265346571,
+      "rawDisplayText": "なにも決定してないです。CLAUDE.mdの決定ラベリングをやめてください。",
+      "canonicalText": "なにも決定してないです。CLAUDE.mdの決定ラベリングをやめてください。",
+      "images": [],
+      "contentDigest": "627343eeefaad1a11fa111258f3d61c2c9a9f1b0e5ff7eb8b6802583dc66af19",
+      "providerUserMessageId": "f2041b41-4257-4265-b7c5-9edfcea098e1",
+      "providerAssistantMessageId": "0818bafe-b7bd-443c-bc21-5970e24f005e"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786265659755-c7wfdkp",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1786265659752-2fpuzlb",
+      "timestamp": 1786265659752,
+      "rawDisplayText": "CLAUDE.mdのラベリングの記述を削除してください。",
+      "canonicalText": "CLAUDE.mdのラベリングの記述を削除してください。",
+      "images": [],
+      "contentDigest": "82effd8abb8ddd412f3ffb6aac61fac27d5d0904def0550f276fcc64acb6eb29",
+      "providerUserMessageId": "12c989c9-687b-429b-9f3f-9dd4fafe1143",
+      "providerAssistantMessageId": "c562574c-55c6-40a5-9dbd-c568464a0e41"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786270757521-jt55y7y",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1786270757512-sdtxxvo",
+      "timestamp": 1786270757512,
+      "rawDisplayText": "較正データの活用1から7で実際に忘却炉のアプリ層で利用できそうなものはどれですか？",
+      "canonicalText": "較正データの活用1から7で実際に忘却炉のアプリ層で利用できそうなものはどれですか？",
+      "images": [],
+      "contentDigest": "0992174a1b7d8fa92c78b7f4e2c0f8f927cd9a966ec807d467c526668630ac73",
+      "providerUserMessageId": "cab0b366-fe92-4c6d-897a-be7dffe705ee",
+      "providerAssistantMessageId": "71df458f-ec8c-4e81-abf4-91510f6dfa15"
+    }
+  ]
+}

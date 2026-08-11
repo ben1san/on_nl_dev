@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786196954956-za26wrkzp",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786196954994-6m1egj7",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786196954949-elbqq20",
+      "timestamp": 1786196954949,
+      "rawDisplayText": "焼却回路はコンデンサの充放電で実現させるのでエントロピー算出はいらないはずです。\n物理乱数は量子コンピュータに絞ります。\nクリプトシュレディングも行わないはずだったと思います。",
+      "canonicalText": "焼却回路はコンデンサの充放電で実現させるのでエントロピー算出はいらないはずです。\n物理乱数は量子コンピュータに絞ります。\nクリプトシュレディングも行わないはずだったと思います。",
+      "context": {
+        "currentNote": {
+          "path": "concept/technical_req.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "5a7322545cb1335411f3b83c116910df0bb921842243cdadf6014e67093c8403",
+      "providerUserMessageId": "e6adab0a-c28a-4eef-b391-3481c0860dc6",
+      "providerAssistantMessageId": "c6e2bcc2-07d8-47b0-b90a-35e81df49eff"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786197049932-vkvfu2q",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786197049928-5nbd288",
+      "timestamp": 1786197049928,
+      "rawDisplayText": "削除してください。削除理由もいりません。関連箇所も削除して",
+      "canonicalText": "削除してください。削除理由もいりません。関連箇所も削除して",
+      "images": [],
+      "contentDigest": "23737d99be3012a89e72b963b4ac3cf4767553ed4154f08317623aede0f459c8",
+      "providerUserMessageId": "bdaafa1a-10b7-4063-976a-842f320be3c1",
+      "providerAssistantMessageId": "f092966b-f104-4de2-b979-0f983da06763"
+    }
+  ]
+}

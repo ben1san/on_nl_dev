@@ -1,0 +1,22 @@
+{
+  "id": "conv-1786205964458-gef0b8fve",
+  "providerId": "claude",
+  "title": "Research CorTec",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786205964463,
+  "lastActivityAt": 1786206646769,
+  "sessionId": "0f5a6334-0e4d-4045-86e9-4b2ee214b159",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "0f5a6334-0e4d-4045-86e9-4b2ee214b159"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 445,
+    "cacheReadInputTokens": 49894,
+    "contextWindow": 1000000,
+    "contextTokens": 50341,
+    "percentage": 5
+  }
+}

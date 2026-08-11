@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786066733793-08stermxn",
+  "providerId": "claude",
+  "title": "Start circuit assembly without soldering tools",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786066733797,
+  "lastActivityAt": 1786067167794,
+  "sessionId": "7fbd59b1-679d-4ea2-a296-91d3dfda9cc8",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "7fbd59b1-679d-4ea2-a296-91d3dfda9cc8"
+  },
+  "currentNote": "classical_erasure/circuit_schematic.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 24462,
+    "cacheReadInputTokens": 16513,
+    "contextWindow": 1000000,
+    "contextTokens": 40977,
+    "percentage": 4
+  }
+}
