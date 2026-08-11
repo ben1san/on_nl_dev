@@ -1,0 +1,22 @@
+{
+  "id": "conv-1786065592992-66g9ackqn",
+  "providerId": "claude",
+  "title": "Remove aluminum substrate references",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786065593000,
+  "lastActivityAt": 1786107588528,
+  "sessionId": "609c9f02-697b-4bce-84d4-c3006807ed04",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "609c9f02-697b-4bce-84d4-c3006807ed04"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 2513,
+    "cacheReadInputTokens": 285415,
+    "contextWindow": 1000000,
+    "contextTokens": 287930,
+    "percentage": 29
+  }
+}

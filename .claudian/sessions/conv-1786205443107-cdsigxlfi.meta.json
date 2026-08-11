@@ -1,0 +1,22 @@
+{
+  "id": "conv-1786205443107-cdsigxlfi",
+  "providerId": "claude",
+  "title": "BCIドキュメント分類体系を設計",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786205443113,
+  "lastActivityAt": 1786205872297,
+  "sessionId": "dcffd53c-8799-47a1-9096-1c24a2bebf3f",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "dcffd53c-8799-47a1-9096-1c24a2bebf3f"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 337,
+    "cacheReadInputTokens": 109905,
+    "contextWindow": 1000000,
+    "contextTokens": 110244,
+    "percentage": 11
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786206938434-td3s4x9ne",
+  "providerId": "claude",
+  "title": "Investigate calibration data findings",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786206938439,
+  "lastActivityAt": 1786270827566,
+  "sessionId": "d20c9828-1612-4aad-9375-be16a441e6e5",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "d20c9828-1612-4aad-9375-be16a441e6e5"
+  },
+  "currentNote": "accessibility/較正データへのアプリアクセスの段階設計.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 85395,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 85397,
+    "percentage": 9
+  }
+}

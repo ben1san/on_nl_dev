@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786271255558-iyzape1iv",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786271255577-t8s7oa1",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786271255556-kt9komg",
+      "timestamp": 1786271255556,
+      "rawDisplayText": "電脳インプラントの放つ熱、および脳組織の温度上昇の制約について調べて",
+      "canonicalText": "電脳インプラントの放つ熱、および脳組織の温度上昇の制約について調べて",
+      "images": [],
+      "contentDigest": "9892d7c67afc6cd55ce919f43fce6ac756ecaa21f53dc4ee830e186bc5fca7f8",
+      "providerUserMessageId": "63a38026-bd0e-4524-8a69-61ef1d34c7b4",
+      "providerAssistantMessageId": "6d11776c-006d-4cbe-b96e-f558bd350b4c"
+    }
+  ]
+}

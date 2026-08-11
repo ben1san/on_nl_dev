@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786192986041-o0idrkfng",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786192986064-weu54r1",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786192986035-05242xw",
+      "timestamp": 1786192986035,
+      "rawDisplayText": "BCI技術を想定して熱情報を脳に送るような機能を忘却炉に搭載したいのですがどこまでエンジニアリングできるとおもいますか？",
+      "canonicalText": "BCI技術を想定して熱情報を脳に送るような機能を忘却炉に搭載したいのですがどこまでエンジニアリングできるとおもいますか？",
+      "images": [],
+      "contentDigest": "2b5d21c692f7af6b44284c173b9a940a80f8171480e9843dc2dbea6b4f8224db",
+      "providerUserMessageId": "64bf985d-c233-4ac5-98e2-cad090b7bf79",
+      "providerAssistantMessageId": "5f287a98-2083-40dd-8444-719576022df2"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786193196076-c9sud83",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786193196073-2ekn36f",
+      "timestamp": 1786193196073,
+      "rawDisplayText": "電脳側で行われる処理と忘却炉で行う処理の境界を考えてください。",
+      "canonicalText": "電脳側で行われる処理と忘却炉で行う処理の境界を考えてください。",
+      "images": [],
+      "contentDigest": "63080f0283b18b122fe4ff564f53342064b4761e9b16d74285bbc0d61e3d502c",
+      "providerUserMessageId": "cf9d427f-b828-4679-b5f3-272fb6541761",
+      "providerAssistantMessageId": "1eeee9f2-5954-4d5b-b3df-9775f8b19282"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786193546574-1f39tyz",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786193546566-cgzoyz2",
+      "timestamp": 1786193546566,
+      "rawDisplayText": "正直あまり電脳技術特有の設計ができない感じがします。電脳特有の処理などエンジニアリングのしがいがある設計はないですか？また現行の電脳技術はどこが境界線になっていますか？",
+      "canonicalText": "正直あまり電脳技術特有の設計ができない感じがします。電脳特有の処理などエンジニアリングのしがいがある設計はないですか？また現行の電脳技術はどこが境界線になっていますか？",
+      "images": [],
+      "contentDigest": "f36d899b3ab473380c5643ac50c6a13b6d4c71371f061d5d4b130b88756c97f8",
+      "providerUserMessageId": "c24f5b34-ab27-4291-90d0-1737e8c3273a",
+      "providerAssistantMessageId": "42d0908f-d971-4c76-bf53-94e9f2023720"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786194888628-11v2kjt",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1786194888619-hpxm3yg",
+      "timestamp": 1786194888619,
+      "rawDisplayText": "1はいいアイディアだと思います。\n\nデコード/エンコードのアルゴリズム本体は外部コンピュータ側で走る\nこれはもしかしたらエンジニアリングできる可能性があります。電動車椅子を電脳で動かすなどをみたことがありますが、あれはスマホなどの外部コンピュータはどこまで処理しているんでしょうか。またアプリケーション層としてはどこまで処理しているんでしょうか。",
+      "canonicalText": "1はいいアイディアだと思います。\n\nデコード/エンコードのアルゴリズム本体は外部コンピュータ側で走る\nこれはもしかしたらエンジニアリングできる可能性があります。電動車椅子を電脳で動かすなどをみたことがありますが、あれはスマホなどの外部コンピュータはどこまで処理しているんでしょうか。またアプリケーション層としてはどこまで処理しているんでしょうか。",
+      "images": [],
+      "contentDigest": "03da0afdcb14c88ebfcdccc3ab0422e7f0a89840109a468b747a4a092b8ea624",
+      "providerUserMessageId": "0c41b37f-600d-4ddd-ab35-8facad214782",
+      "providerAssistantMessageId": "a4ef3988-0773-4f90-8ce6-7ebf508bb66a"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786195252442-rtrnw5m",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1786195252435-72i155t",
+      "timestamp": 1786195252435,
+      "rawDisplayText": "スマホやパソコン側の処理がほとんどだということは理解しましたが、結局将来的には電脳専用アプリが忘却炉のアプリと独立に存在するんじゃないですか",
+      "canonicalText": "スマホやパソコン側の処理がほとんどだということは理解しましたが、結局将来的には電脳専用アプリが忘却炉のアプリと独立に存在するんじゃないですか",
+      "images": [],
+      "contentDigest": "b0bf570f0346b6322cbb0205a31fc353efad10b561622faf7cf00a574172a480",
+      "providerUserMessageId": "3be3dff3-ec37-48be-809e-d8c36c35e123",
+      "providerAssistantMessageId": "b56fb454-d9c0-4fae-9128-c7b70713218f"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786195667326-yziu2xt",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1786195667319-8uatltf",
+      "timestamp": 1786195667319,
+      "rawDisplayText": "デバイス特有の機能があった場合その限りではないんじゃないですか？",
+      "canonicalText": "デバイス特有の機能があった場合その限りではないんじゃないですか？",
+      "images": [],
+      "contentDigest": "8d8a92bf618be333e690c5ad47596e78ac2cb101cc6eed3b7397982c5266fcd6",
+      "providerUserMessageId": "b7d9c92e-15e0-4218-b204-ddd1232e98a0",
+      "providerAssistantMessageId": "414e2042-8fcd-4e72-9dc3-271013f18be2"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786196070109-40ono1e",
+      "userTurnOrdinal": 7,
+      "state": "accepted",
+      "localMessageId": "msg-1786196070104-c91m2cp",
+      "timestamp": 1786196070104,
+      "rawDisplayText": "適切に分割してファイル化してください。",
+      "canonicalText": "適切に分割してファイル化してください。",
+      "images": [],
+      "contentDigest": "f469272be151627bf9566a001ce1370d837fc166a2108fd5d56b502a085b95e5",
+      "providerUserMessageId": "ff21a3f9-d3e1-4d00-b520-3b81f1b05bb6",
+      "providerAssistantMessageId": "dbb4f6f6-c933-439e-adc8-8fdabbe554b4"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786196302106-5yd597u",
+      "userTurnOrdinal": 8,
+      "state": "accepted",
+      "localMessageId": "msg-1786196302104-jfkwz9y",
+      "timestamp": 1786196302104,
+      "rawDisplayText": "CLAUDE.mdを確認して書いて。ファイルの構造が違う",
+      "canonicalText": "CLAUDE.mdを確認して書いて。ファイルの構造が違う",
+      "images": [],
+      "contentDigest": "5c13ebb6d58716389621efeec296a53bcc6aebdb74b9ac1b28cbf1cdc879c566",
+      "providerUserMessageId": "d4edb9e6-2386-4a8a-8062-0baea95a0fe1",
+      "providerAssistantMessageId": "8b59c743-02d3-423a-9be6-27b607d834a7"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786196603326-mswabo6",
+      "userTurnOrdinal": 9,
+      "state": "accepted",
+      "localMessageId": "msg-1786196603324-moystea",
+      "timestamp": 1786196603324,
+      "rawDisplayText": "わかったことはかかないで。CLAUDE.mdにそんなことかいてない",
+      "canonicalText": "わかったことはかかないで。CLAUDE.mdにそんなことかいてない",
+      "context": {
+        "editorSelection": {
+          "notePath": "research/調査-熱フィードバックの原理と応用.md",
+          "mode": "selection",
+          "selectedText": "## わかったこと",
+          "lineCount": 1,
+          "startLine": 16
+        }
+      },
+      "images": [],
+      "contentDigest": "0db19ec77ae024e6e85a54cb3fc8ebe181460ecd1111ec12b244c36daceadcda",
+      "providerUserMessageId": "36875403-0b4a-495f-ab8d-d2b64a6902f7",
+      "providerAssistantMessageId": "98d59ecc-df6f-47ac-b06f-a7d4a4c99cee"
+    }
+  ]
+}

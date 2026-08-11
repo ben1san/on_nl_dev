@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786205443107-cdsigxlfi",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786205443128-so0qufe",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786205443105-h89ohpj",
+      "timestamp": 1786205443105,
+      "rawDisplayText": "@research/BCI/ のファイルが増えてきたので整理したいと思います。まずはディレクトリをつくって整理してください。",
+      "canonicalText": "@research/BCI/ のファイルが増えてきたので整理したいと思います。まずはディレクトリをつくって整理してください。",
+      "images": [],
+      "contentDigest": "6909dd7e82fa797659d7fce1d3377addbafdb5af8675dc4f032470bc41b6095f",
+      "providerUserMessageId": "f0e97842-800f-42c9-a87f-e26797095954",
+      "providerAssistantMessageId": "ea87ff7c-487f-4b47-b1d1-4c2c534678b3"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786205738753-bwkzdof",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786205738750-cwb7plb",
+      "timestamp": 1786205738750,
+      "rawDisplayText": "次に各ファイルに重複がある似た内容があるなどあればその部分は統合するか削除してください。なければなにもしなくていいです。",
+      "canonicalText": "次に各ファイルに重複がある似た内容があるなどあればその部分は統合するか削除してください。なければなにもしなくていいです。",
+      "images": [],
+      "contentDigest": "17d485d49b05694f1facb77cafafe6488867762ec5789aa186312bbaed605d21",
+      "providerUserMessageId": "110d4dcc-848f-4084-99e5-c79f20d61472",
+      "providerAssistantMessageId": "582bd1dc-e7f0-4d4f-95e6-496f78e16a5a"
+    }
+  ]
+}

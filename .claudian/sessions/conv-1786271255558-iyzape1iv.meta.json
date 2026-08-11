@@ -1,0 +1,22 @@
+{
+  "id": "conv-1786271255558-iyzape1iv",
+  "providerId": "claude",
+  "title": "Research brain implant thermal constraints",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786271255565,
+  "lastActivityAt": 1786271680323,
+  "sessionId": "2ca2cd81-941b-4b7b-ae14-172678acf1a4",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "2ca2cd81-941b-4b7b-ae14-172678acf1a4"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 578,
+    "cacheReadInputTokens": 88404,
+    "contextWindow": 1000000,
+    "contextTokens": 88984,
+    "percentage": 9
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786197577671-yz5wvzdk8",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786197577684-jgg6elf",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786197577669-m9a8wyq",
+      "timestamp": 1786197577669,
+      "rawDisplayText": "拡張機能として何が考えられますか？",
+      "canonicalText": "拡張機能として何が考えられますか？",
+      "context": {
+        "currentNote": {
+          "path": "accessibility/FR-11感覚配信における忘却炉と電脳側の処理境界.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "cd84c79021440e4aeebd913e8d888552a9a81d51a93e2eba2efecb1eded64b20",
+      "providerUserMessageId": "a00ab6d8-10d9-4345-a9a0-945b77008e92",
+      "providerAssistantMessageId": "f0ca4aed-1661-4b15-ae91-458f77e79cfd"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786197801814-gsfpk4t",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786197801810-g6ae9zk",
+      "timestamp": 1786197801810,
+      "rawDisplayText": "エントロピーHは算出しない。\nあとこれは決定じゃないからなおして",
+      "canonicalText": "エントロピーHは算出しない。\nあとこれは決定じゃないからなおして",
+      "context": {
+        "editorSelection": {
+          "notePath": "accessibility/FR-11感覚配信における忘却炉と電脳側の処理境界.md",
+          "mode": "selection",
+          "selectedText": "決定",
+          "lineCount": 1,
+          "startLine": 30
+        }
+      },
+      "images": [],
+      "contentDigest": "bbbaaca952aadc6b282d96d5bef3f15d88cf82fe08764105be4fecf701bd0602",
+      "providerUserMessageId": "3f475a95-710f-4235-a359-160bf73a751d",
+      "providerAssistantMessageId": "8e17b8b4-72bd-42fe-88a2-0e34ba5090ac"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786199604422-svuh5tw",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786199604415-pfwlm5s",
+      "timestamp": 1786199604415,
+      "rawDisplayText": "空間拡張性について具体的に考えていきましょう。どのように実装できそうですか？",
+      "canonicalText": "空間拡張性について具体的に考えていきましょう。どのように実装できそうですか？",
+      "images": [],
+      "contentDigest": "a1f4525e8c0914106c24ff3fa4472162f7d9b08ae57907b209fad75bea9e7c6d",
+      "providerUserMessageId": "26963f88-b7a1-4762-9a40-8e996779116e",
+      "providerAssistantMessageId": "c7870a2b-d751-440b-8de8-d6d06526ba15"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786202303746-rc2cbel",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1786202303740-orlj4sb",
+      "timestamp": 1786202303740,
+      "rawDisplayText": "少し疑問なのですが電脳OSがあったとしても電極をどう点灯していくかなどは電脳OSが決めることではない気がします。温度の広がり方に関してもアプリケーション層が決めることじゃないんですか。",
+      "canonicalText": "少し疑問なのですが電脳OSがあったとしても電極をどう点灯していくかなどは電脳OSが決めることではない気がします。温度の広がり方に関してもアプリケーション層が決めることじゃないんですか。",
+      "images": [],
+      "contentDigest": "fd725cb5a9ffec6b2f72b54173690427a85c9039e5b0730570a82b8e93c19f7d",
+      "providerUserMessageId": "96af546c-95ea-487c-9824-17cc7d98684b",
+      "providerAssistantMessageId": "9d3554dd-ad31-4177-83dc-13b715cfadbb"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786202845877-eu0j9d7",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1786202845875-li0lbue",
+      "timestamp": 1786202845875,
+      "rawDisplayText": "OSの機能がじっくり考えられていない気がします。一度OSが担う機能について考察していきましょう。\nOSが持つ情報はなんですか？\nOSは何を管理しますか？\nOSができないことは何ですか？\n既存のOSとアプリケーションの関係から考えてみてください。",
+      "canonicalText": "OSの機能がじっくり考えられていない気がします。一度OSが担う機能について考察していきましょう。\nOSが持つ情報はなんですか？\nOSは何を管理しますか？\nOSができないことは何ですか？\n既存のOSとアプリケーションの関係から考えてみてください。",
+      "images": [],
+      "contentDigest": "391398f936242be62833a33692a2d77d1d3cd89655da8df29bd549adbf8f1dc3",
+      "providerUserMessageId": "b9e28645-0831-48d7-bbc6-08197edc3696",
+      "providerAssistantMessageId": "a329301b-3ae4-497d-9e2c-c387133ad134"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786203457790-f7sosba",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1786203457783-j93wbh6",
+      "timestamp": 1786203457783,
+      "rawDisplayText": "実際のBCIのOSについて調べてみてください。ない場合はこの機能がOSとなるだろうというのでも構いません。",
+      "canonicalText": "実際のBCIのOSについて調べてみてください。ない場合はこの機能がOSとなるだろうというのでも構いません。",
+      "images": [],
+      "contentDigest": "59bc26ca2b7ef62e6abd2fc9fe5d4f7039e5b19bfc53d39bfcc57a6f0458fa40",
+      "providerUserMessageId": "6b46f22c-3f83-4410-8dda-91fc0a8d1c76",
+      "providerAssistantMessageId": "73d3ca4d-1247-47ef-b224-0a5b4dc3d2ba"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786204214390-jmix5ao",
+      "userTurnOrdinal": 7,
+      "state": "accepted",
+      "localMessageId": "msg-1786204214385-9v45ofz",
+      "timestamp": 1786204214385,
+      "rawDisplayText": "較正テーブルも生の神経データもOSが抱えてアプリに渡さない\n私もここは賛成でしたが、よく考えると荒い結論だったかもしれません。確かに痛みなどの校正データが漏れれば大変なことになるかもしれませんが、アプリに渡すことはセキュリティ的に工夫すればできない話ではない気がします。校正データを利用してできることと校正データを利用する上でのセキュリティを考えてみてください。",
+      "canonicalText": "較正テーブルも生の神経データもOSが抱えてアプリに渡さない\n私もここは賛成でしたが、よく考えると荒い結論だったかもしれません。確かに痛みなどの校正データが漏れれば大変なことになるかもしれませんが、アプリに渡すことはセキュリティ的に工夫すればできない話ではない気がします。校正データを利用してできることと校正データを利用する上でのセキュリティを考えてみてください。",
+      "images": [],
+      "contentDigest": "b52cdcb70ab67b44ffd42a6afb70d2d793f7f8d948b2a8d6d17bbe07caa9e2ad",
+      "providerUserMessageId": "2dd4d152-3fdb-486a-9e95-19e00826f0f6",
+      "providerAssistantMessageId": "8d77faad-2ea8-47fa-b31c-9b963aa5182f"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786204825479-qzyy9k9",
+      "userTurnOrdinal": 8,
+      "state": "accepted",
+      "localMessageId": "msg-1786204825474-5gxmfau",
+      "timestamp": 1786204825474,
+      "rawDisplayText": "一度ファイル化しましょう。修正も含めてOS、セキュリティなど適切に分割してください。",
+      "canonicalText": "一度ファイル化しましょう。修正も含めてOS、セキュリティなど適切に分割してください。",
+      "images": [],
+      "contentDigest": "9634e3081b38e2f166e49d94f0a3d09a277795481348956097eb3b5d7ad8ff6f",
+      "providerUserMessageId": "52857cf3-eadb-4b31-81d3-71f625436da1",
+      "providerAssistantMessageId": "035ddffd-ab28-4cf3-aedd-1bf21fff419f"
+    }
+  ]
+}

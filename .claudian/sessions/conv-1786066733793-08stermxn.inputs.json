@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786066733793-08stermxn",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786066733816-sxz3a3s",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786066733789-dwxfti7",
+      "timestamp": 1786066733789,
+      "rawDisplayText": "いまから回路の組み立てをしたいと思います。ハンダゴテなど持っていないです。どこからはじめるべきですか",
+      "canonicalText": "いまから回路の組み立てをしたいと思います。ハンダゴテなど持っていないです。どこからはじめるべきですか",
+      "context": {
+        "currentNote": {
+          "path": "classical_erasure/circuit_schematic.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "16d4bfcfc196ea8b5389e05b4d7fe674441e5c10b3d28dc66dce6e79492ba9fa",
+      "providerUserMessageId": "95b0fcf5-278d-4b19-a3b9-37f4a7171d17"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786066820046-x7k2a5b",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786066820043-2kdcbwl",
+      "timestamp": 1786066820043,
+      "rawDisplayText": "情報層の設計はできないですか？",
+      "canonicalText": "情報層の設計はできないですか？",
+      "images": [],
+      "contentDigest": "2cb9295fb3ee50d8961e2904e574c4ee4edf6d3bfdf81af976e010d57011da10",
+      "providerUserMessageId": "1f8753f5-689a-4570-8d97-69d8bfc8934d",
+      "providerAssistantMessageId": "5284fd6b-21f2-48f8-9667-5667d7942b89"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786066931297-9vkle2x",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786066931294-t4c155i",
+      "timestamp": 1786066931294,
+      "rawDisplayText": "普通のラズパイはどこにいったのですか？",
+      "canonicalText": "普通のラズパイはどこにいったのですか？",
+      "images": [],
+      "contentDigest": "ce8892fe8c50b279e4a5c22263adaaa4f779e7b5b402873ee03dcfb938381959",
+      "providerUserMessageId": "8abb9fa6-7d19-4c46-b634-7e97ed659f33",
+      "providerAssistantMessageId": "8f4bcf0e-93ac-4d67-b61b-4b2515cf739a"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786067117192-8jmdj0u",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1786067117187-etqw8h3",
+      "timestamp": 1786067117187,
+      "rawDisplayText": "picoの配線をします。具体的な指示をしてください。",
+      "canonicalText": "picoの配線をします。具体的な指示をしてください。",
+      "images": [],
+      "contentDigest": "0c2a02c535c300007fbc08a4e5096fb74abe588a4b0724c333bad3ed05bcc721",
+      "providerUserMessageId": "413e725b-e864-4413-90c9-2f404b58f1c2",
+      "providerAssistantMessageId": "b4e61121-4c2d-47b3-b1ba-b3f45390b283"
+    }
+  ]
+}

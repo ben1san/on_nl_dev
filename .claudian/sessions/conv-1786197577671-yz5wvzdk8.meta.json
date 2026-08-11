@@ -1,0 +1,22 @@
+{
+  "id": "conv-1786197577671-yz5wvzdk8",
+  "providerId": "claude",
+  "title": "Brainstorm additional features",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786197577673,
+  "lastActivityAt": 1786205342905,
+  "sessionId": "10ca4224-affc-4dca-b832-35aab8047da3",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "10ca4224-affc-4dca-b832-35aab8047da3"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 4244,
+    "cacheReadInputTokens": 134379,
+    "contextWindow": 1000000,
+    "contextTokens": 138624,
+    "percentage": 14
+  }
+}

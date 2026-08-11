@@ -1,0 +1,22 @@
+{
+  "id": "conv-1786441460787-d6csmznur",
+  "providerId": "claude",
+  "title": "Summarize BCI git changes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786441460789,
+  "lastActivityAt": 1786441787563,
+  "sessionId": "156f3010-640d-40ff-8f7d-0ec3f88be8bd",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "156f3010-640d-40ff-8f7d-0ec3f88be8bd"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 2691,
+    "cacheReadInputTokens": 65353,
+    "contextWindow": 1000000,
+    "contextTokens": 68046,
+    "percentage": 7
+  }
+}
