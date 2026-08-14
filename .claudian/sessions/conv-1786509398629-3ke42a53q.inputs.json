@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786509398629-3ke42a53q",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786509398656-hhfmwvj",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786509398624-t5zto78",
+      "timestamp": 1786509398624,
+      "rawDisplayText": "neuralinkはAIと人間の生成量の非対称性をどのように解決しようとしていますか？",
+      "canonicalText": "neuralinkはAIと人間の生成量の非対称性をどのように解決しようとしていますか？",
+      "context": {
+        "currentNote": {
+          "path": "research/BCI/企業/Neuralinkの侵襲型皮質貫通電極アレイ.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "5681b5e743ccc3e64150d5e06f513f217a20136f2b135a1d5c65a8449ef06b6a",
+      "providerUserMessageId": "0377e990-c2b7-4530-9d64-7477e3153d5f",
+      "providerAssistantMessageId": "61fe78ac-ad51-44ce-ac7d-ee25ac6571c7"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786510068891-oikozbr",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786510068888-khnzmwv",
+      "timestamp": 1786510068888,
+      "rawDisplayText": "帯域を広げる可能性についての研究はありますか？",
+      "canonicalText": "帯域を広げる可能性についての研究はありますか？",
+      "images": [],
+      "contentDigest": "752b65fca7d3cc2c425537058a9bde44aa6bd8b7a57b2ae6128a3831931c17f8",
+      "providerUserMessageId": "0dbae4b2-f704-401b-aa7a-da0717d8b971",
+      "providerAssistantMessageId": "d24fbe2c-aa4b-4996-90f6-e856c976a854"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786510532755-xpcaq2g",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786510532753-ekozx3x",
+      "timestamp": 1786510532753,
+      "rawDisplayText": "AIの生成量の非対称性にはどう対処すべきだと思いますか？",
+      "canonicalText": "AIの生成量の非対称性にはどう対処すべきだと思いますか？",
+      "images": [],
+      "contentDigest": "a3bec5c697399947b42b7914a9505f51860560da067af8e9cea6ce668b55f4c7",
+      "providerUserMessageId": "a7275fa1-ce4f-402d-bfc4-eb73d2d55f67",
+      "providerAssistantMessageId": "b121ca07-cb52-487e-ba62-cf303350c338"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786517875832-iwn9gjs",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1786517875824-2liae74",
+      "timestamp": 1786517875824,
+      "rawDisplayText": "電脳化によるAIの思考補助では現在のチャット式以外での優位性はあるとおもいますか？",
+      "canonicalText": "電脳化によるAIの思考補助では現在のチャット式以外での優位性はあるとおもいますか？",
+      "images": [],
+      "contentDigest": "1ccb01a6f2a2a410d3bd663b4cc3ddc21db4272147f5a9e0534176306e2be85e",
+      "providerUserMessageId": "a28142cd-d02f-4bf8-9a3c-2e17c0787292",
+      "providerAssistantMessageId": "0ee99564-dfe8-4e96-a49f-c9a226c5dde0"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786518111729-z0y66yr",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1786518111724-7gqlfy8",
+      "timestamp": 1786518111724,
+      "rawDisplayText": "そもそも電極数を増やしても出力帯域は増えないという結論で出力帯域の向上を諦めるのは早計だとおもいます。neuralinkが姿勢を変えないのはそこに理由があるんじゃないですか？",
+      "canonicalText": "そもそも電極数を増やしても出力帯域は増えないという結論で出力帯域の向上を諦めるのは早計だとおもいます。neuralinkが姿勢を変えないのはそこに理由があるんじゃないですか？",
+      "images": [],
+      "contentDigest": "300ce84d479129fe3e7b63f4e6336303afa3b1dcf4a24a191a17edaf9ce5dde3",
+      "providerUserMessageId": "37d399bd-2001-481b-8998-bac774b7c272",
+      "providerAssistantMessageId": "12cd5f39-27ab-44c8-976e-ecdbe6128c65"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786518451704-9c3jcmp",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1786518451701-2alvgj2",
+      "timestamp": 1786518451701,
+      "rawDisplayText": "出力帯域の向上に関する広い調査ってすんでましたか？",
+      "canonicalText": "出力帯域の向上に関する広い調査ってすんでましたか？",
+      "images": [],
+      "contentDigest": "d795a3138d8053907a8d8995b1afa9c145188c5b80293c3ba9fb61bbfb359981",
+      "providerUserMessageId": "68f5378a-16bf-45d7-84c8-7ac510006a1d",
+      "providerAssistantMessageId": "4d949293-2629-4a35-a62e-7f46ea907848"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786518521222-tmqhxf8",
+      "userTurnOrdinal": 7,
+      "state": "accepted",
+      "localMessageId": "msg-1786518521220-fngq0j1",
+      "timestamp": 1786518521220,
+      "rawDisplayText": "出力帯域を上げる手段\n\nこれを調べてください。",
+      "canonicalText": "出力帯域を上げる手段\n\nこれを調べてください。",
+      "images": [],
+      "contentDigest": "747a594fff05ba565c47f12f5bbd298e74e487c7c31b345abb28fa4c821f9cf9",
+      "providerUserMessageId": "984be0f0-b663-4c43-b42c-afa9814b4ffb",
+      "providerAssistantMessageId": "3f77674c-aa52-4493-98fd-852d14295ed9"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786519187547-iiktmps",
+      "userTurnOrdinal": 8,
+      "state": "accepted",
+      "localMessageId": "msg-1786519187543-uxlsudh",
+      "timestamp": 1786519187543,
+      "rawDisplayText": "アルゴリズムの改善だと数年程度で停滞してしまいそうな気がするのですが、アルゴリズムの改善による上限、まは出力帯域の上限に関する研究などありますか？",
+      "canonicalText": "アルゴリズムの改善だと数年程度で停滞してしまいそうな気がするのですが、アルゴリズムの改善による上限、まは出力帯域の上限に関する研究などありますか？",
+      "images": [],
+      "contentDigest": "e34487add81ef1ed255f66f7131dcda88228ee0249c11cdb3fc4b5cb6a56293e",
+      "providerUserMessageId": "7bc8f39f-aa65-49fd-a2cd-79831273a7b1",
+      "providerAssistantMessageId": "7b59b557-063e-4e08-addc-6d2f0d923ff3"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786519712472-4evr5kb",
+      "userTurnOrdinal": 9,
+      "state": "accepted",
+      "localMessageId": "msg-1786519712469-wyr72ss",
+      "timestamp": 1786519712469,
+      "rawDisplayText": "「センサー変動性・出力の定型性」という頭打ちの原因が、データ収集の改善で解消しうる一時的な制約か、構造的な壁かは論文からは判断できない\n\nこれを検証して",
+      "canonicalText": "「センサー変動性・出力の定型性」という頭打ちの原因が、データ収集の改善で解消しうる一時的な制約か、構造的な壁かは論文からは判断できない\n\nこれを検証して",
+      "images": [],
+      "contentDigest": "fe0520d00097b3441d48f60c9d208a4e55bce84b93715b92f1ccff0f5b54f256",
+      "providerUserMessageId": "42154447-ca35-4b7c-9e8e-0e31dd12a786",
+      "providerAssistantMessageId": "255db3eb-a0d6-49a7-bded-e3070763eb8f"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786520065416-mpsvkdn",
+      "userTurnOrdinal": 10,
+      "state": "accepted",
+      "localMessageId": "msg-1786520065408-0mbc8cf",
+      "timestamp": 1786520065408,
+      "rawDisplayText": "一度ファイル化して",
+      "canonicalText": "一度ファイル化して",
+      "images": [],
+      "contentDigest": "a896e4fc5cb02c7b6db39ca2ef764e50ed011ad1197a6d140a333c35d128282a",
+      "providerUserMessageId": "50c3771e-7454-45cd-931d-61480e6092d8",
+      "providerAssistantMessageId": "dad5ce9d-5a13-4827-b788-f0c777ed935e"
+    }
+  ]
+}

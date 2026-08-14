@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786541065396-ry3ejrsuh",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786541065427-mjxq4v4",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786541065391-vmtvxra",
+      "timestamp": 1786541065391,
+      "rawDisplayText": "配線でいるものって他に何がありますか？",
+      "canonicalText": "配線でいるものって他に何がありますか？",
+      "context": {
+        "currentNote": {
+          "path": "classical_erasure/architecture.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "9072b99ba09695c7209849a53b904c3fcf8c46ddd9246619b13ffecf91eda436",
+      "providerUserMessageId": "54974ac3-57a9-4978-ae5c-73725f5fc217",
+      "providerAssistantMessageId": "533202ff-e6c5-4052-bd01-85a49b0980c2"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786541359958-finfrcm",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786541359952-6ej06e1",
+      "timestamp": 1786541359952,
+      "rawDisplayText": "具体的な商品名を挙げて行って",
+      "canonicalText": "具体的な商品名を挙げて行って",
+      "images": [],
+      "contentDigest": "837c929aa5155d53a9c708b43ab657152d16c1dbe77edfbe91ea03ec11e0ee5f",
+      "providerUserMessageId": "6375414f-5bf1-437d-951e-935d7fca4d79",
+      "providerAssistantMessageId": "064c9674-050b-49ee-b736-077ac8154699"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786541702406-gi4hnva",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786541702397-n15qt0k",
+      "timestamp": 1786541702397,
+      "rawDisplayText": "picoとラズパイは何で繋ぐの",
+      "canonicalText": "picoとラズパイは何で繋ぐの",
+      "images": [],
+      "contentDigest": "38a4ad253e2387adc07e05d724a999eaa388d3e6efea91bf8ecc588b4102dda5",
+      "providerUserMessageId": "192aa88b-c791-45e2-a792-ca9804c804f5",
+      "providerAssistantMessageId": "a1845391-06fc-42c7-b289-4f39c8a861aa"
+    }
+  ]
+}

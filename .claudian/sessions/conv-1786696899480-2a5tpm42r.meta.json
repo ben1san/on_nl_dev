@@ -1,0 +1,13 @@
+{
+  "id": "conv-1786696899480-2a5tpm42r",
+  "providerId": "claude",
+  "title": "Commit changes and create PR",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786696899484,
+  "lastActivityAt": 1786696899484,
+  "sessionId": "bccd1c03-9141-4191-ab1e-146dceffc843",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "bccd1c03-9141-4191-ab1e-146dceffc843"
+  }
+}

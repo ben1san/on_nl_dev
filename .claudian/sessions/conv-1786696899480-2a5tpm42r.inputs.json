@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786696899480-2a5tpm42r",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786696899501-4anr6aq",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786696899475-58ko067",
+      "timestamp": 1786696899475,
+      "rawDisplayText": "コミットさせてPRまで送ってください。統合担当ですのでファイルの削除なども行いました。",
+      "canonicalText": "コミットさせてPRまで送ってください。統合担当ですのでファイルの削除なども行いました。",
+      "images": [],
+      "contentDigest": "d06d2249dc4e1b025cc39a1e968455ec9c2af05a0563b07f8696bdc270ac9e3c",
+      "providerUserMessageId": "04721451-0b28-49a3-b376-f95a2db44ecb"
+    }
+  ]
+}

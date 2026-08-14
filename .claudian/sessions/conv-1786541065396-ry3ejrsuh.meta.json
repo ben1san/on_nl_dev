@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786541065396-ry3ejrsuh",
+  "providerId": "claude",
+  "title": "配線関連の設計要素を特定",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786541065406,
+  "lastActivityAt": 1786541742006,
+  "sessionId": "f01f6c89-d6b0-469d-9cfa-4d398ec5d603",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "f01f6c89-d6b0-469d-9cfa-4d398ec5d603"
+  },
+  "currentNote": "classical_erasure/architecture.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 1184,
+    "cacheReadInputTokens": 69791,
+    "contextWindow": 1000000,
+    "contextTokens": 70977,
+    "percentage": 7
+  }
+}
