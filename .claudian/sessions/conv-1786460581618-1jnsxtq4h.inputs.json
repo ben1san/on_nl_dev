@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786460581618-1jnsxtq4h",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786460581654-l4e3nvi",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786460581612-nvvom1o",
+      "timestamp": 1786460581612,
+      "rawDisplayText": "電脳化による恩恵として真の意味での記憶の外部化が進むと思うのですが、こちらはどんな研究がありますか？専門領域の知識などを外部化し、思考するときにそれらを思い出すように呼び出すのです。データの形式は文字なのか、脳のデータの構造にしたものなのかはわかりません。",
+      "canonicalText": "電脳化による恩恵として真の意味での記憶の外部化が進むと思うのですが、こちらはどんな研究がありますか？専門領域の知識などを外部化し、思考するときにそれらを思い出すように呼び出すのです。データの形式は文字なのか、脳のデータの構造にしたものなのかはわかりません。",
+      "context": {
+        "currentNote": {
+          "path": "foresight/生産が無限になるとき希少になるのは検証と承認である.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "fb85a83c254f9bd4359a6b508332b089328d43db6d4abadea7828c1a0b0ace4d",
+      "providerUserMessageId": "2bfa92aa-c45b-48e7-a7e7-7d82f1b6ac4f",
+      "providerAssistantMessageId": "92e07fd1-5bdd-4ca1-87a4-9ad96ab0e722"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786509099932-u63fq0m",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786509099919-a7uyqe3",
+      "timestamp": 1786509099919,
+      "rawDisplayText": "整理して",
+      "canonicalText": "整理して",
+      "images": [],
+      "contentDigest": "1b46b0feea00baf30ec2685781250fe3186431847d10e62f09081b72c34e8b5f",
+      "providerUserMessageId": "5646f8f8-4061-4968-b9e8-5b697d083b46",
+      "providerAssistantMessageId": "a5931845-d318-4a64-80e5-cbcdf0b241c0"
+    }
+  ]
+}

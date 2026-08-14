@@ -4,7 +4,7 @@
   "title": "Explore application-specific calibration data",
   "titleGenerationStatus": "success",
   "createdAt": 1786440983047,
-  "lastActivityAt": 1786441094660,
+  "lastActivityAt": 1786450011451,
   "sessionId": "081fed70-4009-4972-89d7-6b721c046493",
   "selectedModel": "opus",
   "providerState": {
@@ -13,10 +13,10 @@
   "usage": {
     "model": "opus",
     "inputTokens": 2,
-    "cacheCreationInputTokens": 7460,
-    "cacheReadInputTokens": 18312,
+    "cacheCreationInputTokens": 776,
+    "cacheReadInputTokens": 146716,
     "contextWindow": 1000000,
-    "contextTokens": 25774,
-    "percentage": 3
+    "contextTokens": 147494,
+    "percentage": 15
   }
 }

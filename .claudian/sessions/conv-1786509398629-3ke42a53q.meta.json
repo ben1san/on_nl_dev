@@ -1,0 +1,22 @@
+{
+  "id": "conv-1786509398629-3ke42a53q",
+  "providerId": "claude",
+  "title": "Analyze Neuralink's AI-human generation asymmetry",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786509398638,
+  "lastActivityAt": 1786520105710,
+  "sessionId": "b1bbcc65-4b0d-4fe1-b718-cde5f692ae02",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "b1bbcc65-4b0d-4fe1-b718-cde5f692ae02"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 1198,
+    "cacheReadInputTokens": 168303,
+    "contextWindow": 1000000,
+    "contextTokens": 169503,
+    "percentage": 17
+  }
+}

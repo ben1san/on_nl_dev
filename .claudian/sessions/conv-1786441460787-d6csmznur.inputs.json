@@ -27,7 +27,50 @@
       "canonicalText": "一度コミットしてシンクさせて、ついでにプルリクを記述して",
       "images": [],
       "contentDigest": "306da0b5d6cc4f01661ef5a1894aa81a270537de64bf7253ac636abb38032397",
-      "providerUserMessageId": "eb543682-95f6-4516-9398-d75a55f7ae63"
+      "providerUserMessageId": "eb543682-95f6-4516-9398-d75a55f7ae63",
+      "providerAssistantMessageId": "d6221197-6fdf-4e13-9b0c-f2058d0d05eb"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786442002365-pho2cpi",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786442002356-avcnhwi",
+      "timestamp": 1786442002356,
+      "rawDisplayText": "gh cliをインストールして",
+      "canonicalText": "gh cliをインストールして",
+      "images": [],
+      "contentDigest": "065c4302bc1f253112fd7e3c236ed36ea2c9a254a78244b0d32f8643062c9737",
+      "providerUserMessageId": "4f245f1d-431a-4b5c-82a6-d2765c4a8510",
+      "providerAssistantMessageId": "9cb5dd0a-a49b-47f3-b922-7683f62b40c7"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786442199701-l4h734m",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1786442199695-6r4ozih",
+      "timestamp": 1786442199695,
+      "rawDisplayText": "できました。",
+      "canonicalText": "できました。",
+      "images": [],
+      "contentDigest": "9ffc02544a07fa96bb963f27e6fc1cc7586564adeeb947d4d0a27faf8a51c622",
+      "providerUserMessageId": "f30d56e5-c1d6-4a69-a177-c29e30df927f",
+      "providerAssistantMessageId": "8540fdb0-d6ca-47dc-aceb-afc9b5f1301b"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786442332328-o34t1t3",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1786442332324-c55yylk",
+      "timestamp": 1786442332324,
+      "rawDisplayText": "新しくbeniというブランチを作成してそこにチェックアウトして",
+      "canonicalText": "新しくbeniというブランチを作成してそこにチェックアウトして",
+      "images": [],
+      "contentDigest": "7c826809b86645fcf08dbc69a87b3047ba5c163877a40ee73ac3a3bc8b25fca7",
+      "providerUserMessageId": "cdfd08ef-f208-4af0-9a18-1f551fe346c3",
+      "providerAssistantMessageId": "385aecb7-8581-4751-aed4-d30a94e663a0"
     }
   ]
 }

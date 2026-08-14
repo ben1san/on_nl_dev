@@ -1,0 +1,22 @@
+{
+  "id": "conv-1786520523982-tocp0odne",
+  "providerId": "claude",
+  "title": "Brainstorm audio techniques for memory correlation",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786520523985,
+  "lastActivityAt": 1786696533743,
+  "sessionId": "98508f70-a3e3-4c31-8f7f-d73713dea2d4",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "98508f70-a3e3-4c31-8f7f-d73713dea2d4"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 3558,
+    "cacheReadInputTokens": 264083,
+    "contextWindow": 1000000,
+    "contextTokens": 267643,
+    "percentage": 27
+  }
+}

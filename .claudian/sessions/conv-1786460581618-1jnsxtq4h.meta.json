@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786460581618-1jnsxtq4h",
+  "providerId": "claude",
+  "title": "記憶外部化のBCI研究動向",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786460581629,
+  "lastActivityAt": 1786509235226,
+  "sessionId": "82532870-3627-42f2-a9ad-19320f8aa427",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "82532870-3627-42f2-a9ad-19320f8aa427"
+  },
+  "currentNote": "foresight/生産が無限になるとき希少になるのは検証と承認である.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 4903,
+    "cacheReadInputTokens": 51532,
+    "contextWindow": 1000000,
+    "contextTokens": 56437,
+    "percentage": 6
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "conv-1786695605694-4u50ict5h",
+  "providerId": "claude",
+  "title": "Organize accumulated BCI research",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786695605699,
+  "lastActivityAt": 1786695966997,
+  "sessionId": "82e1751d-c891-44c8-b74c-c5da24cce30d",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "82e1751d-c891-44c8-b74c-c5da24cce30d"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 1054,
+    "cacheReadInputTokens": 101052,
+    "contextWindow": 1000000,
+    "contextTokens": 102108,
+    "percentage": 10
+  }
+}

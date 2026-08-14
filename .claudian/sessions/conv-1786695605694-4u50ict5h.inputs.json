@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786695605694-4u50ict5h",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786695605709-o5g5r1a",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786695605690-cimhtss",
+      "timestamp": 1786695605690,
+      "rawDisplayText": "/research/BCIのところが溜まってきたので整理してほしいです。",
+      "canonicalText": "/research/BCIのところが溜まってきたので整理してほしいです。",
+      "images": [],
+      "contentDigest": "3e6d72335a525dc082998d1da1822ae3f5a2218caf6042e37d3150efd0766328",
+      "providerUserMessageId": "3a9c7835-deb7-44a3-b99d-ea8808fd2538"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786695798482-ipxhntf",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786695798479-ansekkb",
+      "timestamp": 1786695798479,
+      "rawDisplayText": "ディレクトリを作って構造化して",
+      "canonicalText": "ディレクトリを作って構造化して",
+      "images": [],
+      "contentDigest": "a716a5fd8ac365c395103bf726586dfc99dca4bb0a435a7ffea0f631569d04b2",
+      "providerUserMessageId": "645a2a13-cd66-493a-bed6-b5660613319d",
+      "providerAssistantMessageId": "35205a16-581c-48c1-832c-1fca81b71a50"
+    }
+  ]
+}
