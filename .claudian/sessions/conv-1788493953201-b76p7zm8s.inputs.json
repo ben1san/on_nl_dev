@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1788493953201-b76p7zm8s",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788493953232-8eqtdgj",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1788493953196-rl3207d",
+      "timestamp": 1788493953196,
+      "rawDisplayText": "配線の大部分が終わりました。全部の相補ペアが動かなくてもいいので、検証を後回しにして組み立てたいです。時間もあまりありません。残っているタスクを確認して",
+      "canonicalText": "配線の大部分が終わりました。全部の相補ペアが動かなくてもいいので、検証を後回しにして組み立てたいです。時間もあまりありません。残っているタスクを確認して",
+      "context": {
+        "currentNote": {
+          "path": "classical_erasure/情報層基板の実装配置.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "7479259ba31dca5a8eea349546eee717cc556a86f39d64f2fabf56e11fe89c2b",
+      "providerUserMessageId": "34b68229-67ce-415d-a8dd-26b5215352c7",
+      "providerAssistantMessageId": "26f2d7c7-1ca4-44bf-a97c-c7a279f67607"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788494848492-gi4fumt",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1788494848490-a6dz842",
+      "timestamp": 1788494848490,
+      "rawDisplayText": "rcペアを取り付けてからでも対応はできるはずです。先にアルミ版に取り付けます。全て並列に並べればいいですか？",
+      "canonicalText": "rcペアを取り付けてからでも対応はできるはずです。先にアルミ版に取り付けます。全て並列に並べればいいですか？",
+      "context": {
+        "editorSelection": {
+          "notePath": "classical_erasure/情報層基板の実装配置.md",
+          "mode": "selection",
+          "selectedText": "2×6ヘッダの列24（6穴）を Pico側GND へ（ヘッダ実装後。列24の6穴は1本のメッキ線で繋げ、`20-A` から引く）",
+          "lineCount": 1,
+          "startLine": 401
+        }
+      },
+      "images": [],
+      "contentDigest": "baa38b91fd81863d54492f56bb4cda307616c9b659604714caa97c9f59a69fc8",
+      "providerUserMessageId": "105c1e3b-6445-4217-b175-d32440ae766c",
+      "providerAssistantMessageId": "ca4083f0-775b-4a7d-b504-ba4567b4f1ec"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788507097009-1p6qxo0",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1788507097006-ayxpb4k",
+      "timestamp": 1788507097006,
+      "rawDisplayText": "貼り付けは後回しにします。先に安全層と情報層とラズベリーパイの配線をします。手順を教えてください。",
+      "canonicalText": "貼り付けは後回しにします。先に安全層と情報層とラズベリーパイの配線をします。手順を教えてください。",
+      "images": [],
+      "contentDigest": "1941d26ce92f7985048c9c61dd12b7d2a3838eabdad9ca02bd822b595fd603a4",
+      "providerUserMessageId": "30c83828-af37-4611-a665-b22afb693126",
+      "providerAssistantMessageId": "065181cd-d640-49d2-8222-e306e8e252b9"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788508652616-3eyjkpy",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1788508652609-hcu0za1",
+      "timestamp": 1788508652609,
+      "rawDisplayText": "ヘッダはどちらとも実装しました。\n\n[9,15] → 判定GNDはどこに繋ぐんですか\n[32,9] → ヘッダGP18 はヘッダの配線はどうやるんですか。ジャンパですか。ワイヤーですか。\nテスターがないんですけど出力調整をどうにかできないですか秋月の108012です。",
+      "canonicalText": "ヘッダはどちらとも実装しました。\n\n[9,15] → 判定GNDはどこに繋ぐんですか\n[32,9] → ヘッダGP18 はヘッダの配線はどうやるんですか。ジャンパですか。ワイヤーですか。\nテスターがないんですけど出力調整をどうにかできないですか秋月の108012です。",
+      "context": {
+        "editorSelection": {
+          "notePath": "classical_erasure/安全層基板の実装配置.md",
+          "mode": "selection",
+          "selectedText": "`[9,15]→判定GND`",
+          "lineCount": 1,
+          "startLine": 183
+        }
+      },
+      "images": [],
+      "contentDigest": "9212ebdf5edfddd174d7e7b0be288c2b24e91612df6191af4e5741c599d529d3",
+      "providerUserMessageId": "f7457ab3-0636-44be-bbe7-80f106091a2d",
+      "providerAssistantMessageId": "581bbaf8-328e-4b6f-9ff4-9dce7431a7fc"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1787972315477-85dhys9ls",
+  "providerId": "claude",
+  "title": "Verify terminal block type and orientation",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787972315483,
+  "lastActivityAt": 1788138087695,
+  "sessionId": "40dbaa56-8af5-4ca9-a46c-cc2e8f23ff36",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "40dbaa56-8af5-4ca9-a46c-cc2e8f23ff36"
+  },
+  "currentNote": "classical_erasure/安全層基板の実装配置.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 490,
+    "cacheReadInputTokens": 198911,
+    "contextWindow": 1000000,
+    "contextTokens": 199403,
+    "percentage": 20
+  }
+}

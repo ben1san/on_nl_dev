@@ -1,0 +1,22 @@
+{
+  "id": "conv-1786698403348-cd1wnkrrd",
+  "providerId": "claude",
+  "title": "Extract simulation implementation",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786698403352,
+  "lastActivityAt": 1786698695650,
+  "sessionId": "4e4e4a92-3da8-4b9e-b07c-725bb24ae04f",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "4e4e4a92-3da8-4b9e-b07c-725bb24ae04f"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 2436,
+    "cacheReadInputTokens": 103332,
+    "contextWindow": 1000000,
+    "contextTokens": 105770,
+    "percentage": 11
+  }
+}

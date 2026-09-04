@@ -1,0 +1,22 @@
+{
+  "id": "conv-1787796785482-nmqcp79oq",
+  "providerId": "claude",
+  "title": "Determine bulk placement in information layer",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787796785488,
+  "lastActivityAt": 1787968078605,
+  "sessionId": "37c3276b-bdc0-4ff7-a3de-082771fdd19f",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "37c3276b-bdc0-4ff7-a3de-082771fdd19f"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 1039,
+    "cacheReadInputTokens": 457085,
+    "contextWindow": 1000000,
+    "contextTokens": 458126,
+    "percentage": 46
+  }
+}

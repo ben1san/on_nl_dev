@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786699010362-5kvlvuixl",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786699010386-bqjgmez",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786699010357-uoazye1",
+      "timestamp": 1786699010357,
+      "rawDisplayText": "このファイルですが調査と実装アイディアや視覚演出と聴覚演出がまざっているのでいい感じ分解してください。",
+      "canonicalText": "このファイルですが調査と実装アイディアや視覚演出と聴覚演出がまざっているのでいい感じ分解してください。",
+      "context": {
+        "currentNote": {
+          "path": "research/視覚聴覚演出の実装材料と類似事例.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "a7ad013926333b1a1f9d1983ad61cf08f265777f3bb127408fbe1f3368b389b8",
+      "providerUserMessageId": "2761a3ea-fbd3-4580-9970-0426a2199a73",
+      "providerAssistantMessageId": "583f96aa-acfe-4184-b766-3534aff68664"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786702701244-b2c0edf",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786702701235-jnvj5d6",
+      "timestamp": 1786702701235,
+      "rawDisplayText": "@audio_visual/消去イベントを直接音にするポアソン過程クリックとバッファ破壊という2案.md \nこれってコンセプトとの一貫性という意味ではどのくらい忠実ですか？",
+      "canonicalText": "@audio_visual/消去イベントを直接音にするポアソン過程クリックとバッファ破壊という2案.md \nこれってコンセプトとの一貫性という意味ではどのくらい忠実ですか？",
+      "images": [],
+      "contentDigest": "a9b85d5b39d0518b9be092cd67a39fe23c6b602bd58ebf1524d10e9deb7f0076",
+      "providerUserMessageId": "05c2f796-93e0-4e10-966a-316cbbfb3760",
+      "providerAssistantMessageId": "997e5345-3007-407d-97ac-f1656db971c8"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786703099366-wupm9jj",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786703099361-ye6nfuh",
+      "timestamp": 1786703099361,
+      "rawDisplayText": "B案って具体定な実装はどうなるんですか？記憶データと乱数どっちも使うんですか？\n@audio_visual/聴覚演出はノーバッファの連続グライド楽器として記憶の中身相関を担う.md \nとはどうちかがってきますか？また聞こえのよさとしてはどうですか？",
+      "canonicalText": "B案って具体定な実装はどうなるんですか？記憶データと乱数どっちも使うんですか？\n@audio_visual/聴覚演出はノーバッファの連続グライド楽器として記憶の中身相関を担う.md \nとはどうちかがってきますか？また聞こえのよさとしてはどうですか？",
+      "images": [],
+      "contentDigest": "a4f5b8f8aa1883901b147e745e89801f747e7730fdb36662b693b80334d120d8",
+      "providerUserMessageId": "7ae6440b-172a-47c3-aa15-148b2ed83368",
+      "providerAssistantMessageId": "880f37ef-e802-4999-a613-5b04e5eef149"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1788274448081-4o9jmpo9x",
+  "providerId": "claude",
+  "title": "Articulate intuitive happiness",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788274448088,
+  "lastActivityAt": 1788275266823,
+  "sessionId": "27386375-6d00-46df-8d17-4fa5b3627cfc",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "27386375-6d00-46df-8d17-4fa5b3627cfc"
+  },
+  "currentNote": "concept/summary.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 1201,
+    "cacheReadInputTokens": 33398,
+    "contextWindow": 1000000,
+    "contextTokens": 34601,
+    "percentage": 3
+  }
+}

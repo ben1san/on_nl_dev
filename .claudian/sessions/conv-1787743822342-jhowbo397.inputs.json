@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1787743822342-jhowbo397",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787743822925-ivfcl4r",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1787743822341-olbu2xn",
+      "timestamp": 1787743822341,
+      "rawDisplayText": "音響機能を作っていきたいと思います。いまそれぞれの音が混ざっている感じだと思うのでモードで切り替えたいと思います。時間経過で切り替わる感じです。",
+      "canonicalText": "音響機能を作っていきたいと思います。いまそれぞれの音が混ざっている感じだと思うのでモードで切り替えたいと思います。時間経過で切り替わる感じです。",
+      "context": {
+        "currentNote": {
+          "path": "audio_visual/消去イベントを直接音にするポアソン過程クリックとバッファ破壊という2案.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "cbdbc3831afaf207305fc4ab4f319432439719e4e6d3090ab87678b4b7a21182",
+      "providerUserMessageId": "600aa797-c7cf-45d3-bae2-cc98c5aaa299",
+      "providerAssistantMessageId": "f2cac3ca-b689-484d-af3a-5ccc2aedd09e"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787744658732-7p62uch",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1787744658730-xkzsels",
+      "timestamp": 1787744658730,
+      "rawDisplayText": "交信の音がふわっとした感じになっているのでぴこぱこみたいにクッキリさせたいです。",
+      "canonicalText": "交信の音がふわっとした感じになっているのでぴこぱこみたいにクッキリさせたいです。",
+      "images": [],
+      "contentDigest": "5c1e2c0a9bcbcb31f86216b9ad52c3000360e59757ddd91fcc1f349fe67779e5",
+      "providerUserMessageId": "9a480920-acbc-4b7f-9b8a-d5d23072cfc2",
+      "providerAssistantMessageId": "67fc0025-194d-486f-8f1e-3afc910c04c2"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787745299142-moismxs",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1787745299136-o9dwpk1",
+      "timestamp": 1787745299136,
+      "rawDisplayText": "webmじゃなくてwavにして",
+      "canonicalText": "webmじゃなくてwavにして",
+      "images": [],
+      "contentDigest": "00565d91e72521c6b2d56a595dab62e580f6104f0eb84e38c1c9f528ff072105",
+      "providerUserMessageId": "39724d90-df5e-45e8-ba14-a648a43faa8a"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787745507707-w33k6ku",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1787745507704-62gw5so",
+      "timestamp": 1787745507704,
+      "rawDisplayText": "ダウンロードのファイル形式をwavにして",
+      "canonicalText": "ダウンロードのファイル形式をwavにして",
+      "images": [],
+      "contentDigest": "e94897e80ebf661ed8146109851158434d5bede4f96a6a559f0200fdf14de5ca",
+      "providerUserMessageId": "43c12c2b-b42d-4d29-aefb-4df10405a5ca",
+      "providerAssistantMessageId": "fd6a39f6-efa4-414f-b7eb-76f83a4f66be"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787745706331-2cszvcr",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1787745706324-jk1a0xq",
+      "timestamp": 1787745706324,
+      "rawDisplayText": "arcを使っているのですが録音できないらしいです。",
+      "canonicalText": "arcを使っているのですが録音できないらしいです。",
+      "images": [],
+      "contentDigest": "7aced170476d8c9d2d78214dd8a0f9d83ea76973866cd6442d7cdf39591ff447",
+      "providerUserMessageId": "3f78cc93-1087-4d9b-8384-d885e2fa0e54",
+      "providerAssistantMessageId": "97eae8e0-6f01-4ae1-943f-74e8fea12e85"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787745911548-jikjf2t",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1787745911546-oxiue4w",
+      "timestamp": 1787745911546,
+      "rawDisplayText": "無理でした。webmにもどして。",
+      "canonicalText": "無理でした。webmにもどして。",
+      "images": [],
+      "contentDigest": "8af9dd0569fad27058366ebce0b67ccface45ab93d08964ed36706b8633522b2",
+      "providerUserMessageId": "89b9ba5d-f216-4a10-808f-2410daa799fb",
+      "providerAssistantMessageId": "0f8a3b29-236d-4aa7-a268-cb430c855ffb"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787746700595-fvfe1di",
+      "userTurnOrdinal": 7,
+      "state": "accepted",
+      "localMessageId": "msg-1787746700592-7r6xluy",
+      "timestamp": 1787746700592,
+      "rawDisplayText": "交信音について詰めたいと思います。音を宇宙と交信している感じにしたいのですが木琴？みたいなちょっと残響がある感じにしたいです。",
+      "canonicalText": "交信音について詰めたいと思います。音を宇宙と交信している感じにしたいのですが木琴？みたいなちょっと残響がある感じにしたいです。",
+      "images": [],
+      "contentDigest": "010a0ce41e943a4fda837d0d47db230c99be4faf248e851cb045f1782f83674b",
+      "providerUserMessageId": "87c3a015-1162-407a-aa75-83d2e31658db",
+      "providerAssistantMessageId": "2781315b-5bd3-42f4-8097-d61a65ee014d"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787749699918-xdk2k9z",
+      "userTurnOrdinal": 8,
+      "state": "accepted",
+      "localMessageId": "msg-1787749699910-7a90cup",
+      "timestamp": 1787749699910,
+      "rawDisplayText": "木琴によりすぎているかなと思います。交信している感じにというかぽーんぽーんみたいにして",
+      "canonicalText": "木琴によりすぎているかなと思います。交信している感じにというかぽーんぽーんみたいにして",
+      "images": [],
+      "contentDigest": "f1e8fe0241d348e6c851ca3ae53a9b48c412bc497fdc444b5d4f3a5e7a317edc",
+      "providerUserMessageId": "6a023522-1512-495b-b76a-a444bb26bf89",
+      "providerAssistantMessageId": "f7ec7d7b-8c01-47dc-9276-8cdd5f1507f7"
+    }
+  ]
+}

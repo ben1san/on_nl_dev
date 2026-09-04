@@ -1,0 +1,22 @@
+{
+  "id": "conv-1787836070153-xamst3i3n",
+  "providerId": "claude",
+  "title": "電脳アプリケーション設計の現状整理",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787836070164,
+  "lastActivityAt": 1787898447769,
+  "sessionId": "c45c4365-fc2e-457f-890a-983439ebaba6",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "c45c4365-fc2e-457f-890a-983439ebaba6"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 7891,
+    "cacheReadInputTokens": 143241,
+    "contextWindow": 1000000,
+    "contextTokens": 151134,
+    "percentage": 15
+  }
+}

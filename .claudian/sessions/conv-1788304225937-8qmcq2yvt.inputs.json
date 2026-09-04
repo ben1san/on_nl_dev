@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1788304225937-8qmcq2yvt",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788304226469-wakaqw9",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1788304225933-efty2u8",
+      "timestamp": 1788304225933,
+      "rawDisplayText": "エントロピー算出、乱数の真性証明（NIST統計検定のライブ表示）、量子情報破壊機能、文明継承キット\n\nはやらないので削除して下さい。",
+      "canonicalText": "エントロピー算出、乱数の真性証明（NIST統計検定のライブ表示）、量子情報破壊機能、文明継承キット\n\nはやらないので削除して下さい。",
+      "context": {
+        "currentNote": {
+          "path": "concept/functional_req.md"
+        },
+        "editorSelection": {
+          "notePath": "concept/functional_req.md",
+          "mode": "selection",
+          "selectedText": "文明継承キット",
+          "lineCount": 1,
+          "startLine": 89
+        }
+      },
+      "images": [],
+      "contentDigest": "ff9a02d8a908499353d2e22f4c399a697f6a4ad83b8b5b8c66d6bfb06b8abea9",
+      "providerUserMessageId": "7e3a9920-67ff-4f7a-a5c0-03758a2f20ad",
+      "providerAssistantMessageId": "7c6e50ee-7e23-4af4-b9c0-d5f48935e27c"
+    }
+  ]
+}

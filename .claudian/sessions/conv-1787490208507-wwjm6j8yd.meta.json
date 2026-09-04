@@ -1,0 +1,22 @@
+{
+  "id": "conv-1787490208507-wwjm6j8yd",
+  "providerId": "claude",
+  "title": "起動 聴覚演出アプリの音声確認",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787490208510,
+  "lastActivityAt": 1787496458936,
+  "sessionId": "729201a1-cc0f-4992-9cda-a8d31627ec50",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "729201a1-cc0f-4992-9cda-a8d31627ec50"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1709,
+    "cacheReadInputTokens": 142425,
+    "contextWindow": 1000000,
+    "contextTokens": 144135,
+    "percentage": 14
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1788303466757-gvruzisig",
+  "providerId": "claude",
+  "title": "Estimate remaining circuit work",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788303466764,
+  "lastActivityAt": 1788303558419,
+  "sessionId": "5bcc1434-8102-4282-a6a0-e1c79d116adb",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "5bcc1434-8102-4282-a6a0-e1c79d116adb"
+  },
+  "currentNote": "classical_erasure/情報層基板の実装配置.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 2384,
+    "cacheReadInputTokens": 53456,
+    "contextWindow": 1000000,
+    "contextTokens": 55842,
+    "percentage": 6
+  }
+}

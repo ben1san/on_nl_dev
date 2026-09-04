@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786698403348-cd1wnkrrd",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786698403369-w791v3s",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786698403345-fj6uzfx",
+      "timestamp": 1786698403345,
+      "rawDisplayText": "simulationについてはinformation_erasure_visualizationから現状の実装をファイル化してください。1つのファイルでなくてもいいです。",
+      "canonicalText": "simulationについてはinformation_erasure_visualizationから現状の実装をファイル化してください。1つのファイルでなくてもいいです。",
+      "images": [],
+      "contentDigest": "61b13e9c15e0af2071b4b46795649b54eed51211a1d28ee309e96019fd400fc4",
+      "providerUserMessageId": "da67f5b8-6d12-4cfc-9395-4c0310cef608",
+      "providerAssistantMessageId": "ad45fd2c-679f-415a-9648-49778adb5f1f"
+    }
+  ]
+}

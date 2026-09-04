@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1788303466757-gvruzisig",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788303467363-wey2oh8",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1788303466754-45enwhb",
+      "timestamp": 1788303466754,
+      "rawDisplayText": "回路の方ですが作業としては全体としてあとどれくらい残っていますか？テストは含めないで考えて",
+      "canonicalText": "回路の方ですが作業としては全体としてあとどれくらい残っていますか？テストは含めないで考えて",
+      "context": {
+        "currentNote": {
+          "path": "classical_erasure/情報層基板の実装配置.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "a8f92a579dc12bccdb2d172e6ed63c9819f985d6859ad742ae7bd6ac6bfb8f5b",
+      "providerUserMessageId": "f327142c-e7de-48e7-9970-30d7c8ba784d",
+      "providerAssistantMessageId": "1172f35f-62fb-4799-9b0c-03b01777c3bc"
+    }
+  ]
+}

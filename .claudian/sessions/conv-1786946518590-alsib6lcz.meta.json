@@ -1,0 +1,22 @@
+{
+  "id": "conv-1786946518590-alsib6lcz",
+  "providerId": "claude",
+  "title": "Outline assembly steps",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786946518602,
+  "lastActivityAt": 1788135923068,
+  "sessionId": "91ed0534-78d7-451c-842c-ee16ff29092b",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "91ed0534-78d7-451c-842c-ee16ff29092b"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 928,
+    "cacheReadInputTokens": 595736,
+    "contextWindow": 1000000,
+    "contextTokens": 596666,
+    "percentage": 60
+  }
+}

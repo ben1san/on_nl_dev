@@ -13,7 +13,22 @@
       "canonicalText": "コミットさせてPRまで送ってください。統合担当ですのでファイルの削除なども行いました。",
       "images": [],
       "contentDigest": "d06d2249dc4e1b025cc39a1e968455ec9c2af05a0563b07f8696bdc270ac9e3c",
-      "providerUserMessageId": "04721451-0b28-49a3-b376-f95a2db44ecb"
+      "providerUserMessageId": "04721451-0b28-49a3-b376-f95a2db44ecb",
+      "providerAssistantMessageId": "f3716ad8-4b87-442b-a2b8-66d782e5a937"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786697474322-usnsdqi",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786697474315-4g2mpuj",
+      "timestamp": 1786697474315,
+      "rawDisplayText": "マスターから最新の状態を取ってきて",
+      "canonicalText": "マスターから最新の状態を取ってきて",
+      "images": [],
+      "contentDigest": "5731151d2b9f6e80e2ebd77d78b0b899d64377a15da4b0cab85892a56867438a",
+      "providerUserMessageId": "220807e6-1b29-4487-8243-28c47a28ff66",
+      "providerAssistantMessageId": "432fad21-3ea1-4edf-ad70-b1a4cc6dca72"
     }
   ]
 }

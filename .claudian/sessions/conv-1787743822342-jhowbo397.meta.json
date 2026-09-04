@@ -1,0 +1,23 @@
+{
+  "id": "conv-1787743822342-jhowbo397",
+  "providerId": "claude",
+  "title": "Implement time-based audio mode switching",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787743822349,
+  "lastActivityAt": 1787749861030,
+  "sessionId": "7efda28c-be53-4397-913c-6fcfe910dab7",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "7efda28c-be53-4397-913c-6fcfe910dab7"
+  },
+  "currentNote": "audio_visual/消去イベントを直接音にするポアソン過程クリックとバッファ破壊という2案.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 1507,
+    "cacheReadInputTokens": 229679,
+    "contextWindow": 1000000,
+    "contextTokens": 231188,
+    "percentage": 23
+  }
+}
