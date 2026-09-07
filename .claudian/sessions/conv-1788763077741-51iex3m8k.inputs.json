@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1788763077741-51iex3m8k",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788763077764-dgk7y49",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1788763077739-9hsndgv",
+      "timestamp": 1788763077739,
+      "rawDisplayText": "このvaultのプルリクを作成して新しくbeniというブランチを切ってください。",
+      "canonicalText": "このvaultのプルリクを作成して新しくbeniというブランチを切ってください。",
+      "images": [],
+      "contentDigest": "29ec2c5d14da0ecf1c5fdaf89ebe88af21afef2c917baa6f2c8f2810df65f1fb",
+      "providerUserMessageId": "d9a60c8c-90e8-489a-9e7b-dd21ec4d85a5"
+    }
+  ]
+}

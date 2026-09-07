@@ -1,0 +1,13 @@
+{
+  "id": "conv-1788763077741-51iex3m8k",
+  "providerId": "claude",
+  "title": "Create pull request and new beni branch",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788763077750,
+  "lastActivityAt": 1788763077750,
+  "sessionId": "90feb581-effe-4bac-a001-7068d3ae187c",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "90feb581-effe-4bac-a001-7068d3ae187c"
+  }
+}

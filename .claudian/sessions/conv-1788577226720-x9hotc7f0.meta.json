@@ -1,0 +1,22 @@
+{
+  "id": "conv-1788577226720-x9hotc7f0",
+  "providerId": "claude",
+  "title": "Clarify trimmer voltage alignment",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788577226727,
+  "lastActivityAt": 1788762977740,
+  "sessionId": "ebfe4e4c-fceb-4fee-acde-8970345218b4",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "ebfe4e4c-fceb-4fee-acde-8970345218b4"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 1635,
+    "cacheReadInputTokens": 319148,
+    "contextWindow": 1000000,
+    "contextTokens": 320785,
+    "percentage": 32
+  }
+}

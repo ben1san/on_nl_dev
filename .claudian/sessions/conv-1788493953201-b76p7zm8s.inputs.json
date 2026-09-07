@@ -80,6 +80,20 @@
       "contentDigest": "9212ebdf5edfddd174d7e7b0be288c2b24e91612df6191af4e5741c599d529d3",
       "providerUserMessageId": "f7457ab3-0636-44be-bbe7-80f106091a2d",
       "providerAssistantMessageId": "581bbaf8-328e-4b6f-9ff4-9dce7431a7fc"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788511036904-1h01b1q",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1788511036899-zx20gps",
+      "timestamp": 1788511036899,
+      "rawDisplayText": "これからの手順については新しく新規ファイルを作ってください。\nそれとファイルの修正もしてください。",
+      "canonicalText": "これからの手順については新しく新規ファイルを作ってください。\nそれとファイルの修正もしてください。",
+      "images": [],
+      "contentDigest": "04f278b9a2c510ad938d4f5c361e2f9587659fc47a5b6b05993325c448c145d6",
+      "providerUserMessageId": "d124bb98-36ef-46e1-aa4e-f9921ab39078",
+      "providerAssistantMessageId": "0b3a5dc7-b9b6-44ab-9b43-35fcbe1bd029"
     }
   ]
 }

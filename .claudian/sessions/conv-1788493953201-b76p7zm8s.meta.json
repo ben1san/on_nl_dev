@@ -4,7 +4,7 @@
   "title": "残タスク確認と優先順位付け",
   "titleGenerationStatus": "success",
   "createdAt": 1788493953212,
-  "lastActivityAt": 1788508894083,
+  "lastActivityAt": 1788511376452,
   "sessionId": "ef2b2c6d-844c-461e-8b28-9bb03f57e32e",
   "selectedModel": "opus",
   "providerState": {
@@ -14,10 +14,10 @@
   "usage": {
     "model": "opus",
     "inputTokens": 2,
-    "cacheCreationInputTokens": 628,
-    "cacheReadInputTokens": 92523,
+    "cacheCreationInputTokens": 906,
+    "cacheReadInputTokens": 131957,
     "contextWindow": 1000000,
-    "contextTokens": 93153,
-    "percentage": 9
+    "contextTokens": 132865,
+    "percentage": 13
   }
 }

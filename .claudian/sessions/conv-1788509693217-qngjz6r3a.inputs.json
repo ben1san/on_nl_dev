@@ -27,7 +27,8 @@
       "canonicalText": "一旦コミットしてmasterから最新の状態を持ってきてから整理します。",
       "images": [],
       "contentDigest": "587e8876766401fa4c7e7485fcb5f5e81b49fef750f6a87d920b12ca2e9a596b",
-      "providerUserMessageId": "35b67d74-52fc-474b-8c1b-9680e1919e4c"
+      "providerUserMessageId": "35b67d74-52fc-474b-8c1b-9680e1919e4c",
+      "providerAssistantMessageId": "070b57c1-0a29-4313-8720-0650d3ea04bb"
     }
   ]
 }

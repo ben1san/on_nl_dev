@@ -167,6 +167,20 @@
       "contentDigest": "f5c6434b154111faf8ec1026e1ec42126299e5b6598cc00a6ac7fafd56348c3c",
       "providerUserMessageId": "8f79ee88-190d-4c63-a2c0-0932ba556a0b",
       "providerAssistantMessageId": "b8721bc9-c1d0-4093-a2e8-70ed9277c5bf"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788510872395-k156d2u",
+      "userTurnOrdinal": 13,
+      "state": "accepted",
+      "localMessageId": "msg-1788510871820-00mmxwl",
+      "timestamp": 1788510871820,
+      "rawDisplayText": "ランダム性は固定にしましょう。\n手法については調査してください。\nここまでの設計を整理してください。",
+      "canonicalText": "ランダム性は固定にしましょう。\n手法については調査してください。\nここまでの設計を整理してください。",
+      "images": [],
+      "contentDigest": "2b9b608b38682f1598271fb69b8cb167eb5dc1b38a3850b86cf24ef70ace27f9",
+      "providerUserMessageId": "c6575cc1-6cef-4cda-a98c-3d28a88a33ed",
+      "providerAssistantMessageId": "40361fb4-56eb-49fe-a174-7339d6bd990b"
     }
   ]
 }

@@ -4,7 +4,7 @@
   "title": "Update git repository to latest",
   "titleGenerationStatus": "success",
   "createdAt": 1788509693226,
-  "lastActivityAt": 1788509857825,
+  "lastActivityAt": 1788509977068,
   "sessionId": "d19ef99b-f82a-4ccb-ba97-655929180747",
   "selectedModel": "opus",
   "providerState": {
@@ -12,11 +12,11 @@
   },
   "usage": {
     "model": "opus",
-    "inputTokens": 1,
-    "cacheCreationInputTokens": 1653,
-    "cacheReadInputTokens": 23836,
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 7244,
+    "cacheReadInputTokens": 48810,
     "contextWindow": 1000000,
-    "contextTokens": 25490,
-    "percentage": 3
+    "contextTokens": 56056,
+    "percentage": 6
   }
 }
