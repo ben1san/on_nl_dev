@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1788509693217-qngjz6r3a",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788509693844-la5pq8g",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1788509693212-8k2a7q6",
+      "timestamp": 1788509693212,
+      "rawDisplayText": "リポジトリを整理したいと思います。まずgitを確認して最新の状態にしてください。",
+      "canonicalText": "リポジトリを整理したいと思います。まずgitを確認して最新の状態にしてください。",
+      "images": [],
+      "contentDigest": "650c2f9461a8c9bfb2c1e21f5e88a431e6140dc7cb76ae5b3198d2bac17be2cf",
+      "providerUserMessageId": "a36654fc-644f-46ea-9d58-d0e022f02572",
+      "providerAssistantMessageId": "a6f542c3-1131-4ac5-9fc1-f2d465b8c726"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788509857828-gv1i25t",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1788509857825-aqflgmo",
+      "timestamp": 1788509857825,
+      "rawDisplayText": "一旦コミットしてmasterから最新の状態を持ってきてから整理します。",
+      "canonicalText": "一旦コミットしてmasterから最新の状態を持ってきてから整理します。",
+      "images": [],
+      "contentDigest": "587e8876766401fa4c7e7485fcb5f5e81b49fef750f6a87d920b12ca2e9a596b",
+      "providerUserMessageId": "35b67d74-52fc-474b-8c1b-9680e1919e4c",
+      "providerAssistantMessageId": "070b57c1-0a29-4313-8720-0650d3ea04bb"
+    }
+  ]
+}

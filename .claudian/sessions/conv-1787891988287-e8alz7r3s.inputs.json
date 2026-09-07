@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1787891988287-e8alz7r3s",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787891988881-fi9cqug",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1787891988286-y6siv4j",
+      "timestamp": 1787891988286,
+      "rawDisplayText": "電脳OSkara",
+      "canonicalText": "電脳OSkara",
+      "context": {
+        "currentNote": {
+          "path": "accessibility/電脳OSが担う責務の範囲.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "ea578a10b3177e1a3924cb082ff7604fc2cc9b264c8adf173fce50fa7f60bdf6"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787892376202-6ugjp6z",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1787892376198-l9d84i8",
+      "timestamp": 1787892376198,
+      "rawDisplayText": "電脳アプリケーションを設計したいと思います。電脳OSから提供される情報というのはどんなものですか？具体的なデータセットの例を示して欲しいです。またそれをどう扱えばいいですか？",
+      "canonicalText": "電脳アプリケーションを設計したいと思います。電脳OSから提供される情報というのはどんなものですか？具体的なデータセットの例を示して欲しいです。またそれをどう扱えばいいですか？",
+      "images": [],
+      "contentDigest": "7fc6f14afd272c8b7fcf6aae45ab9acaabf42ffd2b124b68baa88f17f6896601",
+      "providerUserMessageId": "729398b9-14a9-42d0-9ecc-0bec04554fcf",
+      "providerAssistantMessageId": "1c27d168-4c11-4603-9637-3014b8ddfeb0"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787892723738-79wdm7a",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1787892723733-6brpgu0",
+      "timestamp": 1787892723733,
+      "rawDisplayText": "現状の電脳技術と照らし合わせるとデータはどのように扱われていますか？",
+      "canonicalText": "現状の電脳技術と照らし合わせるとデータはどのように扱われていますか？",
+      "images": [],
+      "contentDigest": "1fad94a0bc1bc6db1a8f1365a6f6b65d1266558e42098a877e0e70b786651a7b",
+      "providerUserMessageId": "e4e38ad9-0bf4-401f-a082-cf13cc875e1f",
+      "providerAssistantMessageId": "0a9aa991-775a-4820-82f0-139ba1956c84"
+    }
+  ]
+}

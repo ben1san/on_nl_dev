@@ -1,0 +1,23 @@
+{
+  "id": "conv-1788493953201-b76p7zm8s",
+  "providerId": "claude",
+  "title": "残タスク確認と優先順位付け",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788493953212,
+  "lastActivityAt": 1788511376452,
+  "sessionId": "ef2b2c6d-844c-461e-8b28-9bb03f57e32e",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "ef2b2c6d-844c-461e-8b28-9bb03f57e32e"
+  },
+  "currentNote": "classical_erasure/情報層基板の実装配置.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 906,
+    "cacheReadInputTokens": 131957,
+    "contextWindow": 1000000,
+    "contextTokens": 132865,
+    "percentage": 13
+  }
+}

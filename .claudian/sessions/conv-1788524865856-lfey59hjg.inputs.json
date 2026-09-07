@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1788524865856-lfey59hjg",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788524865874-elo9ip8",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1788524865853-9e5vgwm",
+      "timestamp": 1788524865853,
+      "rawDisplayText": "@classical_erasure/ を整理します。ファイルの修正は行わず、既存のファイルから新規作成する方針にし、基本的には決定事項のみ引き継ぎます。私が検閲しよければ前のファイルは削除します。新規作成するファイルを考えて。",
+      "canonicalText": "@classical_erasure/ を整理します。ファイルの修正は行わず、既存のファイルから新規作成する方針にし、基本的には決定事項のみ引き継ぎます。私が検閲しよければ前のファイルは削除します。新規作成するファイルを考えて。",
+      "images": [],
+      "contentDigest": "7e0de861fa6dcfc4eb3308f392045d25027557fda1911f56223b41b47a1d38ba",
+      "providerUserMessageId": "3658bf17-afd4-432c-8196-6c0903cfc568"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788525226414-l6trstg",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1788525226407-qr2bgsf",
+      "timestamp": 1788525226407,
+      "rawDisplayText": "進行度合いはいるので残ってるタスクは記述します。組み立て順序はいらないです。\n一旦ファイルを作成してみて。",
+      "canonicalText": "進行度合いはいるので残ってるタスクは記述します。組み立て順序はいらないです。\n一旦ファイルを作成してみて。",
+      "images": [],
+      "contentDigest": "31f2093b4a7b080636fdb6e52f350dfeec47489173bf68fe07abf6d656df0203",
+      "providerUserMessageId": "de949a43-e12c-481e-b8f9-e114d55fa731"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788528676334-7w369yy",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1788528676325-r9cnskl",
+      "timestamp": 1788528676325,
+      "rawDisplayText": "続きをやってください。終わったら前のは削除していいです。",
+      "canonicalText": "続きをやってください。終わったら前のは削除していいです。",
+      "images": [],
+      "contentDigest": "ecd78859ff9a89d946493c61fbaaf30e647b0d791db0fa9107be2c5d346c5922",
+      "providerUserMessageId": "2cbf46ff-d9b7-4de4-b939-d674c96fe7b9",
+      "providerAssistantMessageId": "7a9c40e6-17bc-4b59-a791-812d44690192"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788529229647-2yreiyt",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1788529229641-sxm7yth",
+      "timestamp": 1788529229641,
+      "rawDisplayText": "接触プレートは1枚だけにします。ハッカソンに出すプロトタイプのようなものなので、全てのペアが機能するかはわかりません。\n貼り付け方法やテープを全面に貼るのも棄却して未決とします。",
+      "canonicalText": "接触プレートは1枚だけにします。ハッカソンに出すプロトタイプのようなものなので、全てのペアが機能するかはわかりません。\n貼り付け方法やテープを全面に貼るのも棄却して未決とします。",
+      "images": [],
+      "contentDigest": "9ee2579bd4503bc1fd0acc1cef765adf2f925d4c4cefdf002328668dfe973886",
+      "providerUserMessageId": "2c7adf6a-9667-47b3-a5f7-7103e44a5150",
+      "providerAssistantMessageId": "80348511-eb0a-4cd8-a0ad-e206b6721920"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788531424929-m5mttyq",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1788531424926-a0mwyvw",
+      "timestamp": 1788531424926,
+      "rawDisplayText": "12mm角も貼ってみて発熱させたあとで断熱材で囲むか囲まないか決めます。",
+      "canonicalText": "12mm角も貼ってみて発熱させたあとで断熱材で囲むか囲まないか決めます。",
+      "images": [],
+      "contentDigest": "5bdac914859b04656d0a3209922b547ba55f3e50e020b229af8af1d21ca82b8c",
+      "providerUserMessageId": "a26d7cd4-1677-423c-a024-6733f4bdd60e",
+      "providerAssistantMessageId": "042aad57-7985-48a0-bbdf-6b1dcd532299"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "conv-1787613215065-yq7urigp7",
+  "providerId": "claude",
+  "title": "降圧コンバータをラズパイに接続する",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787613215077,
+  "lastActivityAt": 1787613360647,
+  "sessionId": "235fd1d7-4e95-4c2d-9c3d-ed6d0db294a4",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "235fd1d7-4e95-4c2d-9c3d-ed6d0db294a4"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 3716,
+    "cacheReadInputTokens": 30637,
+    "contextWindow": 1000000,
+    "contextTokens": 34355,
+    "percentage": 3
+  }
+}

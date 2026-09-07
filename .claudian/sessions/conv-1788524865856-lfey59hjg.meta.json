@@ -1,0 +1,22 @@
+{
+  "id": "conv-1788524865856-lfey59hjg",
+  "providerId": "claude",
+  "title": "Plan classical_erasure file structure",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788524865861,
+  "lastActivityAt": 1788531577102,
+  "sessionId": "68f6b719-6f34-4202-8796-ef5fb725c4b8",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "68f6b719-6f34-4202-8796-ef5fb725c4b8"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 7251,
+    "cacheReadInputTokens": 206976,
+    "contextWindow": 1000000,
+    "contextTokens": 214229,
+    "percentage": 21
+  }
+}

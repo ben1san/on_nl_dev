@@ -1,0 +1,22 @@
+{
+  "id": "conv-1786699010362-5kvlvuixl",
+  "providerId": "claude",
+  "title": "Separate mixed content by domain",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786699010368,
+  "lastActivityAt": 1786703247903,
+  "sessionId": "16f7b00a-d3a0-4fca-9ee3-df2db0ab7dbc",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "16f7b00a-d3a0-4fca-9ee3-df2db0ab7dbc"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 7404,
+    "cacheReadInputTokens": 105863,
+    "contextWindow": 1000000,
+    "contextTokens": 113269,
+    "percentage": 11
+  }
+}

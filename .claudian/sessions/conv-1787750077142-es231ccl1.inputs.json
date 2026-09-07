@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1787750077142-es231ccl1",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787750077740-oz5beh9",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1787750077135-vhwx2yp",
+      "timestamp": 1787750077135,
+      "rawDisplayText": "義体化バリアフリーの電脳アプリケーションの",
+      "canonicalText": "義体化バリアフリーの電脳アプリケーションの",
+      "images": [],
+      "contentDigest": "7ad96d324dae63a4bd47416d15f83fee5d3e8cfc838ec9448ae660fbc50d8133"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787750103604-jgwxmoz",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1787750103602-qm5cv13",
+      "timestamp": 1787750103602,
+      "rawDisplayText": "義体化バリアフリーの電脳アプリケーションの設計を詰めたいと思います。まず現状の確認をしてみてくださいs。",
+      "canonicalText": "義体化バリアフリーの電脳アプリケーションの設計を詰めたいと思います。まず現状の確認をしてみてくださいs。",
+      "images": [],
+      "contentDigest": "27f4b4db9865fcdd011642dc934e8f2d39249588b43d331cca219edae6c5695a",
+      "providerUserMessageId": "bce72957-3a91-4b75-a910-ed7f3bb97103"
+    }
+  ]
+}

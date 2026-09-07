@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1788763134455-f4ryyckmx",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788763135008-p0xrrym",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1788763134452-855eyug",
+      "timestamp": 1788763134452,
+      "rawDisplayText": "ランダウアの忘却炉ですがプロジェクトとしてはブランチなど開発環境はどのような感じになっていますかね。",
+      "canonicalText": "ランダウアの忘却炉ですがプロジェクトとしてはブランチなど開発環境はどのような感じになっていますかね。",
+      "images": [],
+      "contentDigest": "80d9a00a9ed2d649657751c1536cb6e63fbbcb558d9ff17b6b8b77525c1cf39e",
+      "providerUserMessageId": "051f3b3c-86c9-4446-a61a-c212ef3fdb41",
+      "providerAssistantMessageId": "d432137e-8bd0-44b3-aac1-9ca809fe4c82"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788763249862-4d9m74u",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1788763249857-oj2fhkr",
+      "timestamp": 1788763249857,
+      "rawDisplayText": "コーディングの方です。",
+      "canonicalText": "コーディングの方です。",
+      "images": [],
+      "contentDigest": "91dea42a2f59b948cce4f7e1b5a48ec5754342761ac45c148d1f724977f1f305",
+      "providerUserMessageId": "1651f05b-2db7-405d-bda2-023a27d19c9c"
+    }
+  ]
+}

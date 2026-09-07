@@ -1,0 +1,22 @@
+{
+  "id": "conv-1787571915476-wfi3alp3l",
+  "providerId": "claude",
+  "title": "回路を半田付けするより先に配線だったりをまとめたいです。半田付けも今すぐできはします。どこからやった...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1787571915488,
+  "lastActivityAt": 1787578944818,
+  "sessionId": "55672646-6873-44dd-b26f-41e65a33051d",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "55672646-6873-44dd-b26f-41e65a33051d"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 13955,
+    "cacheReadInputTokens": 73569,
+    "contextWindow": 1000000,
+    "contextTokens": 87525,
+    "percentage": 9
+  }
+}

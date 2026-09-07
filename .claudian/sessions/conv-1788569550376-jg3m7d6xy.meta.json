@@ -1,0 +1,22 @@
+{
+  "id": "conv-1788569550376-jg3m7d6xy",
+  "providerId": "claude",
+  "title": "筐体を一本線型に再設計",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788569550386,
+  "lastActivityAt": 1788571459332,
+  "sessionId": "50c23801-31c7-4420-8224-41c404b8b6ba",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "50c23801-31c7-4420-8224-41c404b8b6ba"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 734,
+    "cacheReadInputTokens": 133696,
+    "contextWindow": 1000000,
+    "contextTokens": 134431,
+    "percentage": 13
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "conv-1788514166542-38a7jgall",
+  "providerId": "claude",
+  "title": "Trim accessibility documentation",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788514166551,
+  "lastActivityAt": 1788522653882,
+  "sessionId": "cc1a8cb7-4323-43ea-b6a4-370e4b55a1aa",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "cc1a8cb7-4323-43ea-b6a4-370e4b55a1aa"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 2949,
+    "cacheReadInputTokens": 130201,
+    "contextWindow": 1000000,
+    "contextTokens": 133151,
+    "percentage": 13
+  }
+}

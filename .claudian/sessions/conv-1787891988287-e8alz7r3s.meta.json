@@ -1,0 +1,23 @@
+{
+  "id": "conv-1787891988287-e8alz7r3s",
+  "providerId": "claude",
+  "title": "Explore cyber-brain OSkara",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787891988294,
+  "lastActivityAt": 1787892824959,
+  "sessionId": "dbf6e8ac-b3b5-4f50-a946-af97d38988b7",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "dbf6e8ac-b3b5-4f50-a946-af97d38988b7"
+  },
+  "currentNote": "accessibility/電脳OSが担う責務の範囲.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 2322,
+    "cacheReadInputTokens": 56507,
+    "contextWindow": 1000000,
+    "contextTokens": 58831,
+    "percentage": 6
+  }
+}

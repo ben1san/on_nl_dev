@@ -1,0 +1,22 @@
+{
+  "id": "conv-1788509693217-qngjz6r3a",
+  "providerId": "claude",
+  "title": "Update git repository to latest",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788509693226,
+  "lastActivityAt": 1788509977068,
+  "sessionId": "d19ef99b-f82a-4ccb-ba97-655929180747",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "d19ef99b-f82a-4ccb-ba97-655929180747"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 7244,
+    "cacheReadInputTokens": 48810,
+    "contextWindow": 1000000,
+    "contextTokens": 56056,
+    "percentage": 6
+  }
+}

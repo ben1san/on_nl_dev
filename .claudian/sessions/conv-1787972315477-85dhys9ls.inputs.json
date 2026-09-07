@@ -1,0 +1,234 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1787972315477-85dhys9ls",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787972315494-irttlss",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1787972315475-14ha9it",
+      "timestamp": 1787972315475,
+      "rawDisplayText": "端子台ってん全部同じやつ使えばいいですかね？あとどの向きにつければいいか教えて欲しいです。チェックをつけたところは半田付けが終わりました。",
+      "canonicalText": "端子台ってん全部同じやつ使えばいいですかね？あとどの向きにつければいいか教えて欲しいです。チェックをつけたところは半田付けが終わりました。",
+      "context": {
+        "currentNote": {
+          "path": "classical_erasure/安全層基板の実装配置.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "71f08a5f4f133d1f7469a595d6ce10a960010e703c736cdb8e5abc3b723136f9",
+      "providerUserMessageId": "eb06e828-50a8-4630-abfc-30fd148584e6",
+      "providerAssistantMessageId": "b88c4f62-e06c-47e2-8e4e-fb5315786483"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787973219352-iteblzw",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1787973219351-1agfel4",
+      "timestamp": 1787973219351,
+      "rawDisplayText": "ゲートノードってなんですか？",
+      "canonicalText": "ゲートノードってなんですか？",
+      "images": [],
+      "contentDigest": "327aa8f9706b93fc47ecff4e469450ea61fe886a075ebf8183a7747c6a2d47f0",
+      "providerUserMessageId": "1d7d0519-98f4-41d4-8597-2c2dbd387c81",
+      "providerAssistantMessageId": "c307f844-f6bf-4119-8bd6-aba0b35a6b7c"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787977430898-7f2xkdm",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1787977430891-1buunl2",
+      "timestamp": 1787977430891,
+      "rawDisplayText": "ina260ですがピンヘッダを取り付けて8本足があります。どこに配置しますか？あと信号ヘッダはピンヘッダでいいんですか？",
+      "canonicalText": "ina260ですがピンヘッダを取り付けて8本足があります。どこに配置しますか？あと信号ヘッダはピンヘッダでいいんですか？",
+      "images": [],
+      "contentDigest": "bce4c664ac8b182f00a55873bf51864936929d300735e4981cc006c5be26731e",
+      "providerUserMessageId": "26e7231e-b43e-49c8-ab39-3a839c99e664",
+      "providerAssistantMessageId": "ca115e15-bbcc-4b3b-bdea-bd170c58fe85"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787990936633-u4t77rp",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1787990936628-8frnqt4",
+      "timestamp": 1787990936628,
+      "rawDisplayText": "ここがよくわかりません。\n**NTC#1の2本** — `[6,11]` と `[8,9]`",
+      "canonicalText": "ここがよくわかりません。\n**NTC#1の2本** — `[6,11]` と `[8,9]`",
+      "context": {
+        "editorSelection": {
+          "notePath": "classical_erasure/安全層基板の実装配置.md",
+          "mode": "selection",
+          "selectedText": "**NTC#1の2本** — `[6,11]` と `[8,9]`",
+          "lineCount": 1,
+          "startLine": 159
+        }
+      },
+      "images": [],
+      "contentDigest": "a4653997366b85d12f38fc8100c65bd7fb5a5cd0a3327f7b6a5441dc2d7b27c5",
+      "providerUserMessageId": "fd09fddd-c46b-4d06-b39f-732acf80582f",
+      "providerAssistantMessageId": "8b261364-b6eb-4569-b003-9b10449930b2"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787997432242-khd4q0p",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1787997432239-ehwzbxg",
+      "timestamp": 1787997432240,
+      "rawDisplayText": "ノートを修正してください。",
+      "canonicalText": "ノートを修正してください。",
+      "context": {
+        "editorSelection": {
+          "notePath": "classical_erasure/安全層基板の実装配置.md",
+          "mode": "selection",
+          "selectedText": "**NTC#1の2本** — `[6,11]` と `[8,9]`",
+          "lineCount": 1,
+          "startLine": 159
+        }
+      },
+      "images": [],
+      "contentDigest": "8c798fe470836ace1038553069569d3b4d983e62824a546098a75de69fa49a2e",
+      "providerUserMessageId": "2145ecbc-d93f-4638-b472-8939145993e4",
+      "providerAssistantMessageId": "572ad394-47ad-49c6-b8d8-3533f294bd9a"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787998088302-g8q4uhg",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1787998088299-bvqosbh",
+      "timestamp": 1787998088299,
+      "rawDisplayText": "[15,20]〜[22,20]におきました。つぎやることはなんですか？",
+      "canonicalText": "[15,20]〜[22,20]におきました。つぎやることはなんですか？",
+      "context": {
+        "editorSelection": {
+          "notePath": "classical_erasure/安全層基板の実装配置.md",
+          "mode": "selection",
+          "selectedText": "**NTC#1の2本** — `[6,11]` と `[8,9]`",
+          "lineCount": 1,
+          "startLine": 159
+        }
+      },
+      "images": [],
+      "contentDigest": "d58ac524d31f45e5a941ee0d26455bad44bf83ad0a9b43fec89eb1dfcc5ba5cf",
+      "providerUserMessageId": "4e709bbe-5245-4acc-9c79-1fb295166b17",
+      "providerAssistantMessageId": "a9a98c6a-73a0-4be1-9785-7cacb5ed1989"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787999337469-rr1sd3b",
+      "userTurnOrdinal": 7,
+      "state": "accepted",
+      "localMessageId": "msg-1787999337466-gl98ep5",
+      "timestamp": 1787999337466,
+      "rawDisplayText": "チェックリストのまだやっていない箇所で取り組むべきものや端子台への配線（降圧コンバータなど）取り組むところを教えてく",
+      "canonicalText": "チェックリストのまだやっていない箇所で取り組むべきものや端子台への配線（降圧コンバータなど）取り組むところを教えてく",
+      "images": [],
+      "contentDigest": "ac5f513e28ee5cf0737ba5477d32f33442abb01ae30c7b8a3ee434e5884d11fd",
+      "providerUserMessageId": "fd80e37c-98e9-4b13-ab59-8a2f9941533e",
+      "providerAssistantMessageId": "7e39eb59-3c17-490b-9406-b64fdc5b1899"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788000052301-2cf1g2x",
+      "userTurnOrdinal": 8,
+      "state": "accepted",
+      "localMessageId": "msg-1788000052295-soh63th",
+      "timestamp": 1788000052295,
+      "rawDisplayText": "ntc#1ですがntc自体が50cmほどあるので直接[8, 11], [8, 9]にさしてもいいんじゃないですか？",
+      "canonicalText": "ntc#1ですがntc自体が50cmほどあるので直接[8, 11], [8, 9]にさしてもいいんじゃないですか？",
+      "images": [],
+      "contentDigest": "63a8e7fa8447bee12e5f1fcb9e02128209fe4d07262d1a8b5492aee0336350f4",
+      "providerUserMessageId": "80699a39-4e74-4ed0-8adc-60f2162ab0db",
+      "providerAssistantMessageId": "aac3cff6-4db8-44e8-9dd4-64f099b09ab0"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788001524224-bt9c9rg",
+      "userTurnOrdinal": 9,
+      "state": "accepted",
+      "localMessageId": "msg-1788001524218-mvud0us",
+      "timestamp": 1788001524218,
+      "rawDisplayText": "3.3V側NTC分圧 10kΩ×2　これってntcをそのままつけるんですか？このntcは10kです。",
+      "canonicalText": "3.3V側NTC分圧 10kΩ×2　これってntcをそのままつけるんですか？このntcは10kです。",
+      "images": [],
+      "contentDigest": "72fbefd9dd2a2caeb5b5b3c65923cc2b6272af9bacf4a2376998485086be47a5",
+      "providerUserMessageId": "2b0c69a3-bfec-472a-ad07-a63274da0fd0",
+      "providerAssistantMessageId": "658aa577-2b4c-46db-bbb4-2ae58d98d5d9"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788010409677-86c9fo9",
+      "userTurnOrdinal": 10,
+      "state": "accepted",
+      "localMessageId": "msg-1788010409673-6kk9kzb",
+      "timestamp": 1788010409673,
+      "rawDisplayText": "端子台の欠落ですが、2はバス上に配置しているので2つの足が同じ線を共有しています。\nこの2本の抵抗はどこにも繋がっていません\nバスにつながっています。",
+      "canonicalText": "端子台の欠落ですが、2はバス上に配置しているので2つの足が同じ線を共有しています。\nこの2本の抵抗はどこにも繋がっていません\nバスにつながっています。",
+      "images": [],
+      "contentDigest": "7d29d752adad899d889b16809dcc4872dee9c339b7ced0ead3469f43b7980d9d",
+      "providerUserMessageId": "81797579-bd3e-434b-92ab-549731474414",
+      "providerAssistantMessageId": "fbaac327-eaf2-46f5-8abb-e7baa62cde27"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788011132220-jp7v89q",
+      "userTurnOrdinal": 11,
+      "state": "accepted",
+      "localMessageId": "msg-1788011132212-910yfuf",
+      "timestamp": 1788011132212,
+      "rawDisplayText": "[22, 2], [22,5]などにはntcが直でついています。抵抗ではないです。",
+      "canonicalText": "[22, 2], [22,5]などにはntcが直でついています。抵抗ではないです。",
+      "images": [],
+      "contentDigest": "f2b0d3763697f59f3527603c6ad9a788d5a854137bf23a3e34263fb499f4577e",
+      "providerUserMessageId": "25affc0d-0116-4985-9b61-9e00d2067474",
+      "providerAssistantMessageId": "00901417-b898-4021-8446-1437e8fd55ae"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788135178303-5yyfa5s",
+      "userTurnOrdinal": 12,
+      "state": "accepted",
+      "localMessageId": "msg-1788135178299-uui0i1c",
+      "timestamp": 1788135178299,
+      "rawDisplayText": "端子代の配線を推奨通りに直しました。\n\n提案：3.3V系は制御基板へ移しませんか\n具体的にどうするんですか？",
+      "canonicalText": "端子代の配線を推奨通りに直しました。\n\n提案：3.3V系は制御基板へ移しませんか\n具体的にどうするんですか？",
+      "images": [],
+      "contentDigest": "7968881fe1f45f4036c46d348c24a0b3f6263ebb3841e08b7143b6cb23d035f2",
+      "providerUserMessageId": "66da0e4c-8160-4fad-bbae-bac0a544aed7",
+      "providerAssistantMessageId": "9a880bfe-7e4e-45f9-9e59-169102aafa17"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788136708577-3qb8dmd",
+      "userTurnOrdinal": 13,
+      "state": "accepted",
+      "localMessageId": "msg-1788136708572-ao34yqq",
+      "timestamp": 1788136708572,
+      "rawDisplayText": "@classical_erasure/情報層基板の実装配置.md そうします。ファイルを編集して",
+      "canonicalText": "@classical_erasure/情報層基板の実装配置.md そうします。ファイルを編集して",
+      "images": [],
+      "contentDigest": "bd9f87a7a951d2a8657e6fbf59478355e54f9fd1cd9e4ac831a21da795081441",
+      "providerUserMessageId": "eef8318d-e0c5-4c5b-adc4-88d40c7a5c79",
+      "providerAssistantMessageId": "73cc1bbe-a303-465b-b756-e3d726401c98"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788137901189-hod5wo9",
+      "userTurnOrdinal": 14,
+      "state": "accepted",
+      "localMessageId": "msg-1788137901187-ze0tpu2",
+      "timestamp": 1788137901187,
+      "rawDisplayText": "31, 32にntcの片側の足を、33に2つのntcの足を共有させるということですか？また100nFのコンデンサはどこに入れるんですか？また安全層側の100nFのコンデンサはどうするんですか？",
+      "canonicalText": "31, 32にntcの片側の足を、33に2つのntcの足を共有させるということですか？また100nFのコンデンサはどこに入れるんですか？また安全層側の100nFのコンデンサはどうするんですか？",
+      "images": [],
+      "contentDigest": "75226e7ade0cff8d2096325ae2f0f127b16a643782300c7094b20428cf43a9b9",
+      "providerUserMessageId": "bcccac1e-101b-4b4f-aea8-0e20179a7311",
+      "providerAssistantMessageId": "ede383c0-a966-486d-b602-aa60ebaa6c18"
+    }
+  ]
+}

@@ -4,10 +4,19 @@
   "title": "Commit changes and create PR",
   "titleGenerationStatus": "success",
   "createdAt": 1786696899484,
-  "lastActivityAt": 1786696899484,
+  "lastActivityAt": 1786697510390,
   "sessionId": "bccd1c03-9141-4191-ab1e-146dceffc843",
   "selectedModel": "sonnet",
   "providerState": {
     "providerSessionId": "bccd1c03-9141-4191-ab1e-146dceffc843"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 321,
+    "cacheReadInputTokens": 89711,
+    "contextWindow": 1000000,
+    "contextTokens": 90034,
+    "percentage": 9
   }
 }

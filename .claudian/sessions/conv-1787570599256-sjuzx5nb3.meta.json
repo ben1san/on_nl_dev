@@ -1,0 +1,23 @@
+{
+  "id": "conv-1787570599256-sjuzx5nb3",
+  "providerId": "claude",
+  "title": "Evaluate Raspberry Pi power from PC",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787570599259,
+  "lastActivityAt": 1787570703191,
+  "sessionId": "4cdf702b-cfc6-49be-b8fe-08fd67875cbf",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "4cdf702b-cfc6-49be-b8fe-08fd67875cbf"
+  },
+  "currentNote": "classical_erasure/circuit_schematic.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 6102,
+    "cacheReadInputTokens": 28962,
+    "contextWindow": 1000000,
+    "contextTokens": 35066,
+    "percentage": 4
+  }
+}

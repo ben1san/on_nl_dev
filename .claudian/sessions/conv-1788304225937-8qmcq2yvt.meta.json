@@ -1,0 +1,23 @@
+{
+  "id": "conv-1788304225937-8qmcq2yvt",
+  "providerId": "claude",
+  "title": "Remove unused quantum entropy features",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788304225941,
+  "lastActivityAt": 1788304929659,
+  "sessionId": "2282979c-89d7-4aa2-8166-a0218e077417",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "2282979c-89d7-4aa2-8166-a0218e077417"
+  },
+  "currentNote": "concept/functional_req.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 721,
+    "cacheReadInputTokens": 64204,
+    "contextWindow": 1000000,
+    "contextTokens": 64926,
+    "percentage": 6
+  }
+}

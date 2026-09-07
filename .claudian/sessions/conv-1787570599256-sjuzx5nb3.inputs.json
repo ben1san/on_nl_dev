@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1787570599256-sjuzx5nb3",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1787570599285-yxl5ag4",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1787570599252-r25uaf6",
+      "timestamp": 1787570599252,
+      "rawDisplayText": "給電についてですが、ラズパイに直接パソコンから給電するのでは足りないですか？",
+      "canonicalText": "給電についてですが、ラズパイに直接パソコンから給電するのでは足りないですか？",
+      "context": {
+        "currentNote": {
+          "path": "classical_erasure/circuit_schematic.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "f673489c2d04b0ef9bf51f9f6ed857e86946f3b35889d3d68d508758162bd3e8",
+      "providerUserMessageId": "311e664c-77f7-4996-8531-467730aa7e13",
+      "providerAssistantMessageId": "57ed9385-5731-4e03-a7dd-dc27e8fbf97d"
+    }
+  ]
+}
