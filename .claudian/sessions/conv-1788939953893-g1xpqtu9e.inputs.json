@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1788939953893-g1xpqtu9e",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788939954543-jiq4r8l",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1788939953884-kht4qne",
+      "timestamp": 1788939953885,
+      "rawDisplayText": "ランダウアの忘却炉のコードの方のリポジトリを整理したいです。minimalみたいなブランチをmainに持ってきたいです。まずは状況を教えて。",
+      "canonicalText": "ランダウアの忘却炉のコードの方のリポジトリを整理したいです。minimalみたいなブランチをmainに持ってきたいです。まずは状況を教えて。",
+      "images": [],
+      "contentDigest": "4bdd7dd17c156dd9fda0c67c02aa38f192f0895afdabd58b6483a7c890e5c94f",
+      "providerUserMessageId": "688b345b-20fc-4ed5-81f5-88bd93ae622b",
+      "providerAssistantMessageId": "42096950-5f14-4e94-a817-69822e5eff0a"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788940360806-wmbnrdy",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1788940360795-6hven12",
+      "timestamp": 1788940360795,
+      "rawDisplayText": "1、2は想定しています。\nstashも消してもらっていいです。マージしてしまってください。",
+      "canonicalText": "1、2は想定しています。\nstashも消してもらっていいです。マージしてしまってください。",
+      "images": [],
+      "contentDigest": "554333e51cd1127fc535a5cd6ab81b0ded28fa0eaeb7260ab10b8452c2570a43",
+      "providerUserMessageId": "ade0dea6-7729-4c98-9d06-03c12c4b47ee",
+      "providerAssistantMessageId": "9a04cad1-1c86-48af-b79e-762d8329e792"
+    }
+  ]
+}

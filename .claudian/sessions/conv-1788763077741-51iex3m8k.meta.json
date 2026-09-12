@@ -4,10 +4,19 @@
   "title": "Create pull request and new beni branch",
   "titleGenerationStatus": "success",
   "createdAt": 1788763077750,
-  "lastActivityAt": 1788763077750,
+  "lastActivityAt": 1788763421713,
   "sessionId": "90feb581-effe-4bac-a001-7068d3ae187c",
   "selectedModel": "opus",
   "providerState": {
     "providerSessionId": "90feb581-effe-4bac-a001-7068d3ae187c"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1929,
+    "cacheReadInputTokens": 59355,
+    "contextWindow": 1000000,
+    "contextTokens": 61285,
+    "percentage": 6
   }
 }

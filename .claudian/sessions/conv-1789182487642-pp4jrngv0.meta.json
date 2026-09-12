@@ -1,0 +1,13 @@
+{
+  "id": "conv-1789182487642-pp4jrngv0",
+  "providerId": "claude",
+  "title": "Merge changes to main",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789182487646,
+  "lastActivityAt": 1789182487646,
+  "sessionId": "f25c16c0-37b5-4298-bc16-9d81913dde68",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "f25c16c0-37b5-4298-bc16-9d81913dde68"
+  }
+}

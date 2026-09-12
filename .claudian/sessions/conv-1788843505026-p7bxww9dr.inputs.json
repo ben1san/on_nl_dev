@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1788843505026-p7bxww9dr",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788843505658-z3kcabz",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1788843505022-7dw08tj",
+      "timestamp": 1788843505022,
+      "rawDisplayText": "landauers_furnaceの聴覚演出アプリを起動して",
+      "canonicalText": "landauers_furnaceの聴覚演出アプリを起動して",
+      "images": [],
+      "contentDigest": "bb21f67452024dac8019bf33866379aa5bc7721e3794db171361493a5b5ea82c",
+      "providerUserMessageId": "06b96e7f-7492-4e10-b536-9bee4382e97d",
+      "providerAssistantMessageId": "72e148b4-358d-452c-88a9-b1a3842b0315"
+    }
+  ]
+}

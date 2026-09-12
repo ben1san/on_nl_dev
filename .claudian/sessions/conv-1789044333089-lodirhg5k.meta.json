@@ -1,0 +1,19 @@
+{
+  "id": "conv-1789044333089-lodirhg5k",
+  "providerId": "claude",
+  "title": "Create audio presentation",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789044333095,
+  "lastActivityAt": 1789130696874,
+  "sessionId": null,
+  "selectedModel": "opus",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 533477,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 533479,
+    "percentage": 53
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1788940722450-25g6vhod7",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788940722487-m3rfe04",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1788940722445-4irm8zt",
+      "timestamp": 1788940722445,
+      "rawDisplayText": "視覚演出ですが、当日確実に動くようにpcからもラズパイからも操作できるusb接続のledを使いたいです。演出の自由度はある程度削ります。回路との連携も一旦は考えません。良い製品があれば教えてください。",
+      "canonicalText": "視覚演出ですが、当日確実に動くようにpcからもラズパイからも操作できるusb接続のledを使いたいです。演出の自由度はある程度削ります。回路との連携も一旦は考えません。良い製品があれば教えてください。",
+      "images": [],
+      "contentDigest": "215cc64c1fabea9e7d353e94975684fcbfe14185381dfe699e6078f4bee51cf5",
+      "providerUserMessageId": "54b7b263-8802-46d0-a994-82b702e48254",
+      "providerAssistantMessageId": "6fbea4de-4ada-4a88-b516-b565346789a7"
+    }
+  ]
+}

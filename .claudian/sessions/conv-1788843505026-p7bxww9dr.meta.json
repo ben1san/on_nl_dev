@@ -1,0 +1,22 @@
+{
+  "id": "conv-1788843505026-p7bxww9dr",
+  "providerId": "claude",
+  "title": "Launch Landauer's furnace auditory app",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788843505037,
+  "lastActivityAt": 1788843554389,
+  "sessionId": "d029aad1-faaa-4049-a7b8-0fb0eb22c82d",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "d029aad1-faaa-4049-a7b8-0fb0eb22c82d"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 97,
+    "cacheReadInputTokens": 32223,
+    "contextWindow": 1000000,
+    "contextTokens": 32322,
+    "percentage": 3
+  }
+}

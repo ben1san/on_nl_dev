@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789013546836-w4ed2dr2h",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789013547460-f50mo86",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789013546833-ouelcmq",
+      "timestamp": 1789013546833,
+      "rawDisplayText": "プロダクトの説明に対して以下について議論したいです。どう思いますか？\n\n量子力学や情報熱力学を用いたのはそれらが情報理論であり、観測者を明示的に取り入れた理論だから。プロダクトの仕様を理解しようとした時に必ず自分を含めるようにしている。",
+      "canonicalText": "プロダクトの説明に対して以下について議論したいです。どう思いますか？\n\n量子力学や情報熱力学を用いたのはそれらが情報理論であり、観測者を明示的に取り入れた理論だから。プロダクトの仕様を理解しようとした時に必ず自分を含めるようにしている。",
+      "context": {
+        "currentNote": {
+          "path": "presentation/本番/メモ.md"
+        },
+        "editorSelection": {
+          "notePath": "presentation/本番/メモ.md",
+          "mode": "selection",
+          "selectedText": "量子力学や情報熱力学を用いたのはそれらが情報理論であり、観測者を明示的に取り入れた理論だから。プロダクトの仕様を理解しようとした時に必ず自分を含めるようにしている。",
+          "lineCount": 1,
+          "startLine": 12
+        }
+      },
+      "images": [],
+      "contentDigest": "51ee03294f70f5d597fba14e428840f83fb3312c7d5f3193707b3aed5af9ee94",
+      "providerUserMessageId": "f160c3d4-3a25-4d6b-a77e-c8af78e29423",
+      "providerAssistantMessageId": "9f73e43f-a38c-4d32-9108-62f82dba716c"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789014781159-scxnqeu",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1789014781153-pwleek0",
+      "timestamp": 1789014781153,
+      "rawDisplayText": "多世界解釈は意識基底が定義できない陰謀論です。そもそも情報理論の量子力学に解釈など存在しません。素朴にものが情報だと理解するだけです。\n質問ですがランダウアとついているのはランダウアのプロトコルを電子回路で組んだことに由来しているのですが、観測者を復活させるという意味の主張はある程度できますかね？",
+      "canonicalText": "多世界解釈は意識基底が定義できない陰謀論です。そもそも情報理論の量子力学に解釈など存在しません。素朴にものが情報だと理解するだけです。\n質問ですがランダウアとついているのはランダウアのプロトコルを電子回路で組んだことに由来しているのですが、観測者を復活させるという意味の主張はある程度できますかね？",
+      "context": {
+        "editorSelection": {
+          "notePath": "presentation/本番/メモ.md",
+          "mode": "selection",
+          "selectedText": "量子力学や情報熱力学を用いたのはそれらが情報理論であり、観測者を明示的に取り入れた理論だから。プロダクトの仕様を理解しようとした時に必ず自分を含めるようにしている。",
+          "lineCount": 1,
+          "startLine": 12
+        }
+      },
+      "images": [],
+      "contentDigest": "649da5d135505fdc1146aca36e731c4568dea4e4a75ac757ad3f5980caa57f55",
+      "providerUserMessageId": "24096605-f243-4c43-add7-8375b9cd63df",
+      "providerAssistantMessageId": "e4412a12-d7ec-4686-b42a-54c0d3132eb4"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789030638656-jsh8uif",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1789030638646-fuvrb70",
+      "timestamp": 1789030638646,
+      "rawDisplayText": "presentationのところにノート化してください。",
+      "canonicalText": "presentationのところにノート化してください。",
+      "context": {
+        "editorSelection": {
+          "notePath": "presentation/本番/メモ.md",
+          "mode": "selection",
+          "selectedText": "量子力学や情報熱力学を用いたのはそれらが情報理論であり、観測者を明示的に取り入れた理論だから。プロダクトの仕様を理解しようとした時に必ず自分を含めるようにしている。",
+          "lineCount": 1,
+          "startLine": 12
+        }
+      },
+      "images": [],
+      "contentDigest": "6acbb8ae77807485d1f1caf6439d7f865790b95cc2edbc3bd7e4475923d5935a",
+      "providerUserMessageId": "a0338125-e575-4a7d-ad0c-19e06b0f9786",
+      "providerAssistantMessageId": "d83c33cb-9551-4257-aa93-fc8e70858fe9"
+    }
+  ]
+}

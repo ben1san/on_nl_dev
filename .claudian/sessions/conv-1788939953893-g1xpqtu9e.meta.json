@@ -1,0 +1,22 @@
+{
+  "id": "conv-1788939953893-g1xpqtu9e",
+  "providerId": "claude",
+  "title": "Assess Landauer code repository state",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788939953904,
+  "lastActivityAt": 1788940403254,
+  "sessionId": "0c849c9e-47c6-4563-828e-7c804caa93c7",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "0c849c9e-47c6-4563-828e-7c804caa93c7"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 613,
+    "cacheReadInputTokens": 36866,
+    "contextWindow": 1000000,
+    "contextTokens": 37481,
+    "percentage": 4
+  }
+}
