@@ -1,0 +1,22 @@
+{
+  "id": "conv-1789190128767-aou0yue9e",
+  "providerId": "claude",
+  "title": "Launch Bosutsuka-ro simulation",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789190128773,
+  "lastActivityAt": 1789190187460,
+  "sessionId": "c18bd351-8071-415a-af3c-6d16e6035dd0",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "c18bd351-8071-415a-af3c-6d16e6035dd0"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 125,
+    "cacheReadInputTokens": 29343,
+    "contextWindow": 1000000,
+    "contextTokens": 29470,
+    "percentage": 3
+  }
+}

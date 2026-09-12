@@ -4,7 +4,7 @@
   "title": "Merge changes to main",
   "titleGenerationStatus": "success",
   "createdAt": 1789182487646,
-  "lastActivityAt": 1789182931458,
+  "lastActivityAt": 1789183164396,
   "sessionId": "f25c16c0-37b5-4298-bc16-9d81913dde68",
   "selectedModel": "opus",
   "providerState": {
@@ -13,10 +13,10 @@
   "usage": {
     "model": "opus",
     "inputTokens": 2,
-    "cacheCreationInputTokens": 216,
-    "cacheReadInputTokens": 35407,
+    "cacheCreationInputTokens": 261,
+    "cacheReadInputTokens": 56293,
     "contextWindow": 1000000,
-    "contextTokens": 35625,
-    "percentage": 4
+    "contextTokens": 56556,
+    "percentage": 6
   }
 }
