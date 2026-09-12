@@ -9,23 +9,7 @@ topics: []
 
 # 00_index — 状態ボード
 
-このファイルは統合担当のみが編集する。他の団員はPR本文に「索引へ載せる1行」を書き、
-統合担当がmerge後に反映する。索引に載らないファイルは存在させない。
-
-## 領域とオーナー
-
-| 領域 | オーナー | ブランチ | 状態 |
-|---|---|---|---|
-| concept | 統合担当 | main | - |
-| quantum | 未定 | feature/quantum | - |
-| quantum_erasure | 未定 | feature/quantum_erasure | - |
-| classical_erasure | 未定 | feature/classical_erasure | - |
-| audio_visual | 未定 | feature/audio_visual | - |
-| enclosure | 未定 | feature/enclosure | - |
-| accessibility | 未定 | feature/accessibility | - |
-| research | 未定 | main直 | - |
-| foresight | 未定 | main直 | - |
-| presentation | 統合担当 | main直 | - |
+専有者はいない。ノートを書いたそのコミットで1行載せる。索引に載らないファイルは存在させない。
 
 ## concept
 
