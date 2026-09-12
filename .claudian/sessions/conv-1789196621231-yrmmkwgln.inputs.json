@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789196621231-yrmmkwgln",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789196621817-hop5zc1",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789196621224-iofmpjs",
+      "timestamp": 1789196621224,
+      "rawDisplayText": "この台本の続きとしてプロダクトの説明を書いてみてください。この文にあるような簡単な説明です。ファイルは書き換えないで",
+      "canonicalText": "この台本の続きとしてプロダクトの説明を書いてみてください。この文にあるような簡単な説明です。ファイルは書き換えないで",
+      "context": {
+        "currentNote": {
+          "path": "presentation/本番/台本2.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "98631d04da661da11e9d157f251a34ace72204a27388598f3de6e3cae74349d8",
+      "providerUserMessageId": "90dddc2a-7cb7-4dc5-9152-e966b28d552f",
+      "providerAssistantMessageId": "9168aa51-e311-4fdc-89a9-115e1f15e83e"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789200660823-ugy9h0m",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1789200660816-cmw7j2l",
+      "timestamp": 1789200660816,
+      "rawDisplayText": "議論という形で構成を考えていきましょう。\n\n普通の機械の消去は電気信号の熱で消去熱がかき消される。忘却炉は消去の熱そのもの。\n\n別のシミュレーションとして、情報の圧縮が行われる様子を用意したい。情報のシミュレーションを情報保存を行っているという演出にしたい。\n\nそのあとで義体化ユーザーバリアフリー、電脳アプリの説明。\n視覚演出、聴覚演出の説明\n量子回路、電子回路の説明をして、その仕様が自分を含めないと理解できないという説明をして、このプロダクトが人間の復活を目指したものであり、新しい思想としてクアンタムネイチャーを定義した。のようにしたいと思います。どう思いますか？台本2やその他のノートからも考えてみてください。",
+      "canonicalText": "議論という形で構成を考えていきましょう。\n\n普通の機械の消去は電気信号の熱で消去熱がかき消される。忘却炉は消去の熱そのもの。\n\n別のシミュレーションとして、情報の圧縮が行われる様子を用意したい。情報のシミュレーションを情報保存を行っているという演出にしたい。\n\nそのあとで義体化ユーザーバリアフリー、電脳アプリの説明。\n視覚演出、聴覚演出の説明\n量子回路、電子回路の説明をして、その仕様が自分を含めないと理解できないという説明をして、このプロダクトが人間の復活を目指したものであり、新しい思想としてクアンタムネイチャーを定義した。のようにしたいと思います。どう思いますか？台本2やその他のノートからも考えてみてください。",
+      "images": [],
+      "contentDigest": "9151153227885222f4d8551b8ddb29895c39b24f93f41368f18bba8e5ba77d29",
+      "providerUserMessageId": "664b87bf-73ba-404d-b440-97e69ee31156",
+      "providerAssistantMessageId": "428cb31b-2e62-4c79-ab56-c4dd55fbd1eb"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789201758740-3yx5hjb",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1789201758737-1btq5cp",
+      "timestamp": 1789201758737,
+      "rawDisplayText": "対案でいいので一度、台本2のように書き出してみてください。",
+      "canonicalText": "対案でいいので一度、台本2のように書き出してみてください。",
+      "images": [],
+      "contentDigest": "a8a536d0adff46a1acc5e7410e860ebb389aea79d96ae5bae9b4f396d8bc033b",
+      "providerUserMessageId": "62ffd2f7-32f9-4a98-9134-175ac07961d4",
+      "providerAssistantMessageId": "643ace3f-54c4-49f7-94c2-25b629bd548c"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789202221477-ki0ch8e",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1789202221473-4ab4c53",
+      "timestamp": 1789202221473,
+      "rawDisplayText": "新しい台本として吐き出してください。それが終わったらマージさせてシンクさせて。",
+      "canonicalText": "新しい台本として吐き出してください。それが終わったらマージさせてシンクさせて。",
+      "images": [],
+      "contentDigest": "e72b4cd9a61511ff3f661591bb034014816ddc84960579db8bbe8e2f648d01d8",
+      "providerUserMessageId": "c51cbbfe-e865-4b10-b905-4e69235ff6e8"
+    }
+  ]
+}

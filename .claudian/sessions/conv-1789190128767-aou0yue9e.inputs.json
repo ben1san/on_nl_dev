@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789190128767-aou0yue9e",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789190129360-xux3xkw",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789190128765-550t7y5",
+      "timestamp": 1789190128765,
+      "rawDisplayText": "忘却炉プロジェクトのシミュレーションを起動して。",
+      "canonicalText": "忘却炉プロジェクトのシミュレーションを起動して。",
+      "images": [],
+      "contentDigest": "7d21e1052b525008bc7f75798673133e3fcd5ffd187b527968c4a141e2c2f188",
+      "providerUserMessageId": "6de35340-c0ba-45f7-afe4-25236e290f63",
+      "providerAssistantMessageId": "bd8c63eb-6f44-4fde-8d64-6fe6a192f967"
+    }
+  ]
+}
