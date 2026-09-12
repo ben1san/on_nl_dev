@@ -1,0 +1,23 @@
+{
+  "id": "conv-1789013546836-w4ed2dr2h",
+  "providerId": "claude",
+  "title": "Discuss observer-centric quantum framework",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789013546843,
+  "lastActivityAt": 1789030741880,
+  "sessionId": "363cc5b7-d14e-4541-b4bb-fa9248521539",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "363cc5b7-d14e-4541-b4bb-fa9248521539"
+  },
+  "currentNote": "presentation/本番/メモ.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 4394,
+    "cacheReadInputTokens": 38209,
+    "contextWindow": 1000000,
+    "contextTokens": 42605,
+    "percentage": 4
+  }
+}

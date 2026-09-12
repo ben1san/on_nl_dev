@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789182487642-pp4jrngv0",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789182488239-2vvfhpd",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789182487640-0dmcsa1",
+      "timestamp": 1789182487640,
+      "rawDisplayText": "mainにマージさせてください。",
+      "canonicalText": "mainにマージさせてください。",
+      "images": [],
+      "contentDigest": "04f0deae8a604fd1074260b8b92f3def7e3662401079e2e1331a5f5dd80bd3e9",
+      "providerUserMessageId": "52fc655e-3197-4359-b6b7-18229739ef55"
+    }
+  ]
+}

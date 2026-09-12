@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789033171467-r6k7tuuv5",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789033171503-cidxanw",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789033171459-m2oc9y4",
+      "timestamp": 1789033171459,
+      "rawDisplayText": "聴覚演出の続きを作っていきたいと思います。現状の回転の説明を簡単にした後に、実験的にどういう回転が考えられるか。",
+      "canonicalText": "聴覚演出の続きを作っていきたいと思います。現状の回転の説明を簡単にした後に、実験的にどういう回転が考えられるか。",
+      "context": {
+        "currentNote": {
+          "path": "audio_visual/聴覚演出は回路クロック分周の純正律ドローンと連続グライドする記憶の声で構成する.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "0a59801e49816f793d70a1352e9696a7acaee5885c9e21b930321ecb095406d4",
+      "providerUserMessageId": "0bb0246c-1225-4e86-9b2b-27a2ddc8fce1",
+      "providerAssistantMessageId": "85fda689-8593-48f8-b70c-f2fb907cdbb7"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789033422911-uxbcygn",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1789033422907-y9rkp9k",
+      "timestamp": 1789033422907,
+      "rawDisplayText": "順番通りにやってみましょう。",
+      "canonicalText": "順番通りにやってみましょう。",
+      "images": [],
+      "contentDigest": "0bff047f448aba0305ecc1444a8e163575976e1db6a5365a1e3dff23806b791c",
+      "providerUserMessageId": "2d3c69cc-0f4a-4741-9676-70ba0a877ba7",
+      "providerAssistantMessageId": "8480c86b-f42e-4e88-80f2-10b59b6be7cc"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789043259701-w9tszzc",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1789043259696-h9j6g6k",
+      "timestamp": 1789043259696,
+      "rawDisplayText": "参照音はDownloadにあります。\nBCが一番奥行きがいいです。採用してもいいと思います。つぎに着手しましょう。",
+      "canonicalText": "参照音はDownloadにあります。\nBCが一番奥行きがいいです。採用してもいいと思います。つぎに着手しましょう。",
+      "images": [],
+      "contentDigest": "b3f9b67b0d69a405f3059eb15bd82cff8aea778ca6bc266f2c1ad3dc38232ed1",
+      "providerUserMessageId": "adc11915-0bcb-46a0-82c2-91982af5c816",
+      "providerAssistantMessageId": "c020d393-ebc7-451a-b3a4-0edbcae76758"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789043877634-drbdwjo",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1789043877624-fgtpglr",
+      "timestamp": 1789043877624,
+      "rawDisplayText": "あまり違いがわからない。BCを今まで考えていた音に適用させてみて",
+      "canonicalText": "あまり違いがわからない。BCを今まで考えていた音に適用させてみて",
+      "images": [],
+      "contentDigest": "d61d63790270bfc47dba3b4f308cc7050a089ead9327e726c4d2a9f290fec69e",
+      "providerUserMessageId": "74ebe00d-9ab3-438b-ada5-a07c56e55dd0",
+      "providerAssistantMessageId": "82dfab79-4b3d-4cde-adc9-e66f99257c05"
+    }
+  ]
+}

@@ -13,7 +13,8 @@
       "canonicalText": "このvaultのプルリクを作成して新しくbeniというブランチを切ってください。",
       "images": [],
       "contentDigest": "29ec2c5d14da0ecf1c5fdaf89ebe88af21afef2c917baa6f2c8f2810df65f1fb",
-      "providerUserMessageId": "d9a60c8c-90e8-489a-9e7b-dd21ec4d85a5"
+      "providerUserMessageId": "d9a60c8c-90e8-489a-9e7b-dd21ec4d85a5",
+      "providerAssistantMessageId": "68b18aa7-28e9-49dd-8da5-508ef8d82a4f"
     }
   ]
 }

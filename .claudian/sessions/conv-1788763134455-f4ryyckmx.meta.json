@@ -4,19 +4,16 @@
   "title": "Explore Landauer furnace development setup",
   "titleGenerationStatus": "success",
   "createdAt": 1788763134460,
-  "lastActivityAt": 1788763249857,
+  "lastActivityAt": 1788834497979,
   "sessionId": "cbfca2f4-90d8-4b0e-bb91-4e4a44f962bc",
-  "selectedModel": "opus",
-  "providerState": {
-    "providerSessionId": "cbfca2f4-90d8-4b0e-bb91-4e4a44f962bc"
-  },
+  "selectedModel": "sonnet",
   "usage": {
-    "model": "opus",
-    "inputTokens": 1,
-    "cacheCreationInputTokens": 676,
-    "cacheReadInputTokens": 32504,
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 2336,
+    "cacheReadInputTokens": 352342,
     "contextWindow": 1000000,
-    "contextTokens": 33181,
-    "percentage": 3
+    "contextTokens": 354680,
+    "percentage": 35
   }
 }

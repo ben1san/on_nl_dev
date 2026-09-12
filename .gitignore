@@ -2,3 +2,7 @@
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .obsidian/plugins/*/data.json
+
+# レンダリング音源・キャッシュ（容量が大きいため共有しない）
+*.wav
+__pycache__/

@@ -1,0 +1,22 @@
+{
+  "id": "conv-1788840210651-5or9hzaru",
+  "providerId": "claude",
+  "title": "Design audio synthesis approach for auditory ef...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788840210660,
+  "lastActivityAt": 1788864316896,
+  "sessionId": "ac922d0d-e560-4374-93c2-3b7b1cf3255b",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "ac922d0d-e560-4374-93c2-3b7b1cf3255b"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 541,
+    "cacheReadInputTokens": 417589,
+    "contextWindow": 1000000,
+    "contextTokens": 418132,
+    "percentage": 42
+  }
+}

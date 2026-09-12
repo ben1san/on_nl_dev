@@ -1,0 +1,22 @@
+{
+  "id": "conv-1789008095853-fpi3sr2rf",
+  "providerId": "claude",
+  "title": "Design visual effects with LED tape",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789008095862,
+  "lastActivityAt": 1789009802668,
+  "sessionId": "4457a6e0-e783-4f20-a008-58ef96b00163",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "4457a6e0-e783-4f20-a008-58ef96b00163"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 2850,
+    "cacheReadInputTokens": 94332,
+    "contextWindow": 1000000,
+    "contextTokens": 97184,
+    "percentage": 10
+  }
+}

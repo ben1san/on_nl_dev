@@ -1,0 +1,23 @@
+{
+  "id": "conv-1788864352173-6sgtoh178",
+  "providerId": "claude",
+  "title": "Develop dimtakt-style audio effects",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788864352181,
+  "lastActivityAt": 1788942172469,
+  "sessionId": "60106b2a-0035-4867-8fe1-e1ff674e4ed7",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "60106b2a-0035-4867-8fe1-e1ff674e4ed7"
+  },
+  "currentNote": "00_index.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 1132,
+    "cacheReadInputTokens": 447920,
+    "contextWindow": 1000000,
+    "contextTokens": 449054,
+    "percentage": 45
+  }
+}
