@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789203968233-hcirrvtxh",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789203968787-m1ithk8",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789203968230-y9ebr8h",
+      "timestamp": 1789203968230,
+      "rawDisplayText": "情報の保存と対比させた言語によるコンテキストの圧縮を表現させたシミュレーションを作りたいと思います。どういう感じのものがいいと思いますか？",
+      "canonicalText": "情報の保存と対比させた言語によるコンテキストの圧縮を表現させたシミュレーションを作りたいと思います。どういう感じのものがいいと思いますか？",
+      "images": [],
+      "contentDigest": "21be2368da0908898c3a436592ff36bed23fce652163e72734d80ec763d17d3b",
+      "providerUserMessageId": "09840e35-10eb-4b6b-b337-260113af63ea"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789204894313-npdlocv",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1789204894312-ctbrk86",
+      "timestamp": 1789204894312,
+      "rawDisplayText": "細かい粒子の動きだとわからない可能性があります。演出として圧縮がわかりやすいものを考えてください。",
+      "canonicalText": "細かい粒子の動きだとわからない可能性があります。演出として圧縮がわかりやすいものを考えてください。",
+      "images": [],
+      "contentDigest": "058c2029496e83a817b3ebf6ab2bb37dd7217681203994967004518d3a4f1e77",
+      "providerUserMessageId": "1e299072-8c54-44d8-8c56-7647da2e26b8",
+      "providerAssistantMessageId": "a38549d4-d115-4697-aad8-b0c0917ac100"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789205145238-dhvysof",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1789205145234-09f4gvk",
+      "timestamp": 1789205145234,
+      "rawDisplayText": "文で表現するとそのあとの消去シミュレーションがよくわからなくなる。",
+      "canonicalText": "文で表現するとそのあとの消去シミュレーションがよくわからなくなる。",
+      "images": [],
+      "contentDigest": "e67c442ff4a252d48541fcfe1d427844b4f56ac5c6702958a6649e896904c95f",
+      "providerUserMessageId": "77f7a446-a961-4042-95e5-822f7345d445",
+      "providerAssistantMessageId": "0f14cd99-4bec-44bd-9a8a-6ed9d5bb38bd"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789205480136-60ge3fj",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1789205480131-512abfi",
+      "timestamp": 1789205480131,
+      "rawDisplayText": "粒子などを用いてもいいですが、情報が失われているというような演出をしたいです。",
+      "canonicalText": "粒子などを用いてもいいですが、情報が失われているというような演出をしたいです。",
+      "images": [],
+      "contentDigest": "104b4f19f705d5a8d05cca1b9bcf82f16070794be317adf5011f557897c34f86",
+      "providerUserMessageId": "4ddabe25-4bcd-4462-91d4-52c7689c7b5b",
+      "providerAssistantMessageId": "8c495b40-a45d-4c09-93b5-004f217fa116"
+    }
+  ]
+}

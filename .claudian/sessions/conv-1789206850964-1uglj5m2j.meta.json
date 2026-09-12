@@ -1,0 +1,13 @@
+{
+  "id": "conv-1789206850964-1uglj5m2j",
+  "providerId": "claude",
+  "title": "Share SuperCollider audio production setup",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789206850968,
+  "lastActivityAt": 1789206850968,
+  "sessionId": "6e2edf1c-3985-4777-a449-58cfa31d294c",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "6e2edf1c-3985-4777-a449-58cfa31d294c"
+  }
+}

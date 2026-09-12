@@ -4,7 +4,7 @@
   "title": "Continue product description in script",
   "titleGenerationStatus": "success",
   "createdAt": 1789196621236,
-  "lastActivityAt": 1789202221473,
+  "lastActivityAt": 1789202421688,
   "sessionId": "4f25ebb2-786a-4fe4-ba3d-420757dbc6f8",
   "selectedModel": "opus",
   "providerState": {
@@ -14,10 +14,10 @@
   "usage": {
     "model": "opus",
     "inputTokens": 2,
-    "cacheCreationInputTokens": 2954,
-    "cacheReadInputTokens": 41732,
+    "cacheCreationInputTokens": 155,
+    "cacheReadInputTokens": 62361,
     "contextWindow": 1000000,
-    "contextTokens": 44688,
-    "percentage": 4
+    "contextTokens": 62518,
+    "percentage": 6
   }
 }

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789206850964-1uglj5m2j",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789206851518-rvogzeb",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789206850961-rjqkzuy",
+      "timestamp": 1789206850961,
+      "rawDisplayText": "音演出の開発をチームで共有させたいです。supercolliderの環境やスクリプトなどを共有したいです。",
+      "canonicalText": "音演出の開発をチームで共有させたいです。supercolliderの環境やスクリプトなどを共有したいです。",
+      "images": [],
+      "contentDigest": "6c027d3ca2a19066d2f317a989481f70d86fc23501d30050d32b61bfa722e8d6",
+      "providerUserMessageId": "2dea8e98-d1d9-422d-9e08-b10ca1c82274"
+    }
+  ]
+}

@@ -60,7 +60,8 @@
       "canonicalText": "新しい台本として吐き出してください。それが終わったらマージさせてシンクさせて。",
       "images": [],
       "contentDigest": "e72b4cd9a61511ff3f661591bb034014816ddc84960579db8bbe8e2f648d01d8",
-      "providerUserMessageId": "c51cbbfe-e865-4b10-b905-4e69235ff6e8"
+      "providerUserMessageId": "c51cbbfe-e865-4b10-b905-4e69235ff6e8",
+      "providerAssistantMessageId": "cfee625f-d4ae-4226-abbd-5648a62edc7a"
     }
   ]
 }

@@ -15,6 +15,20 @@
       "contentDigest": "7d21e1052b525008bc7f75798673133e3fcd5ffd187b527968c4a141e2c2f188",
       "providerUserMessageId": "6de35340-c0ba-45f7-afe4-25236e290f63",
       "providerAssistantMessageId": "bd8c63eb-6f44-4fde-8d64-6fe6a192f967"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789210487480-l50b1mu",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1789210487476-d5p4ns9",
+      "timestamp": 1789210487476,
+      "rawDisplayText": "もう一回起動して",
+      "canonicalText": "もう一回起動して",
+      "images": [],
+      "contentDigest": "7dce61b69c8d6b1d77583fa1230259bfb5f810fb952a8c6e575d5edf0fc77776",
+      "providerUserMessageId": "7a04b037-bd27-4172-be78-f7483973fb03",
+      "providerAssistantMessageId": "098b686c-4c3b-43dd-abbe-1cb7fe861e87"
     }
   ]
 }

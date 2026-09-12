@@ -1,0 +1,22 @@
+{
+  "id": "conv-1789203968233-hcirrvtxh",
+  "providerId": "claude",
+  "title": "Simulate language-based context compression",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789203968235,
+  "lastActivityAt": 1789205542213,
+  "sessionId": "e75a58d9-a700-454c-bc5a-3efecd990796",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "e75a58d9-a700-454c-bc5a-3efecd990796"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 3009,
+    "cacheReadInputTokens": 45658,
+    "contextWindow": 1000000,
+    "contextTokens": 48669,
+    "percentage": 5
+  }
+}
