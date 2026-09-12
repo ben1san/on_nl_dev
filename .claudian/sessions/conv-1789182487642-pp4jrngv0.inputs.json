@@ -13,7 +13,21 @@
       "canonicalText": "mainにマージさせてください。",
       "images": [],
       "contentDigest": "04f0deae8a604fd1074260b8b92f3def7e3662401079e2e1331a5f5dd80bd3e9",
-      "providerUserMessageId": "52fc655e-3197-4359-b6b7-18229739ef55"
+      "providerUserMessageId": "52fc655e-3197-4359-b6b7-18229739ef55",
+      "providerAssistantMessageId": "1b50fecf-f30f-4e20-9893-cf7e7bd21043"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789182931459-f5vfk16",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1789182931458-bkrlqle",
+      "timestamp": 1789182931458,
+      "rawDisplayText": "残っている2件もしっかり含めてマージさせて",
+      "canonicalText": "残っている2件もしっかり含めてマージさせて",
+      "images": [],
+      "contentDigest": "8422116597646cb6456b7f7b5a4cd4d5a08a58b2242a10b7752f00df059f687a",
+      "providerUserMessageId": "fb0de22c-6d61-480d-a534-8d88ab9619e0"
     }
   ]
 }
